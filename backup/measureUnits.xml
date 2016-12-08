@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : measureUnits.xml
+    Created on : May 23, 2011, 7:29 PM
+    Author     : Glenn Ulansey
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+	<MeasureUnit>Cup</MeasureUnit>
+	<MeasureUnit>Slice</MeasureUnit>
+	<MeasureUnit>Ounce</MeasureUnit>
+	<MeasureUnit>Box</MeasureUnit>
+	<MeasureUnit></MeasureUnit>
+	<MeasureUnit>Tablespoon</MeasureUnit>
+	<MeasureUnit>Teaspoon</MeasureUnit>
+	<MeasureUnit>Pound</MeasureUnit>
+</root>

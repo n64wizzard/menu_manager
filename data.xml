@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Base>
+    <Stores>
+        <Store>SafeWay</Store>
+        <Store>Costco</Store>
+        <Store>Winco</Store>
+        <Store>Butcher</Store>
+        <Store/>
+    </Stores>
+    <Categories>
+        <Category>Produce</Category>
+        <Category>Cereals</Category>
+        <Category>Chips and Crackers</Category>
+        <Category>Dairy</Category>
+        <Category>Meat</Category>
+        <Category>Deserts</Category>
+        <Category>Drinks</Category>
+        <Category>Non-Food</Category>
+        <Category>Spices</Category>
+        <Category>Canned Goods</Category>
+        <Category>Condiments</Category>
+        <Category/>
+    </Categories>
+    <MealNames>
+        <MealName>Breakfast</MealName>
+        <MealName>Lunch</MealName>
+        <MealName>Dinner</MealName>
+    </MealNames>
+    <MeasureUnits>
+        <MeasureUnit>Cup</MeasureUnit>
+        <MeasureUnit>Slice</MeasureUnit>
+        <MeasureUnit>Ounce</MeasureUnit>
+        <MeasureUnit>Box</MeasureUnit>
+        <MeasureUnit/>
+        <MeasureUnit>Tablespoon</MeasureUnit>
+        <MeasureUnit>Teaspoon</MeasureUnit>
+        <MeasureUnit>Pound</MeasureUnit>
+        <MeasureUnit>Can</MeasureUnit>
+        <MeasureUnit>Crate</MeasureUnit>
+    </MeasureUnits>
+    <Ingredients>
+        <Ingredient id="4">
+            <name>Cinnamon</name>
+            <measureUnit>Teaspoon</measureUnit>
+            <unitsPerPackage>32.0</unitsPerPackage>
+            <store>Winco</store>
+            <category>Spices</category>
+        </Ingredient>
+        <Ingredient id="74265983">
+            <name>Egg</name>
+            <measureUnit/>
+            <unitsPerPackage>48.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Dairy</category>
+        </Ingredient>
+        <Ingredient id="13784868">
+            <name>Grahm Cracker</name>
+            <measureUnit>Slice</measureUnit>
+            <unitsPerPackage>40.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Deserts</category>
+        </Ingredient>
+        <Ingredient id="95518909">
+            <name>Hamburger Bun</name>
+            <measureUnit/>
+            <unitsPerPackage>30.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Cereals</category>
+        </Ingredient>
+        <Ingredient id="11574371">
+            <name>Hamburger Patty</name>
+            <measureUnit/>
+            <unitsPerPackage>20.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Meat</category>
+        </Ingredient>
+        <Ingredient id="94179268">
+            <name>Hershey's Chocolate</name>
+            <measureUnit>Slice</measureUnit>
+            <unitsPerPackage>32.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Deserts</category>
+        </Ingredient>
+        <Ingredient id="77728744">
+            <name>Hot Dog</name>
+            <measureUnit/>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Meat</category>
+        </Ingredient>
+        <Ingredient id="5707672">
+            <name>Jelly</name>
+            <measureUnit>Tablespoon</measureUnit>
+            <unitsPerPackage>32.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Condiments</category>
+        </Ingredient>
+        <Ingredient id="93970613">
+            <name>Ketchup</name>
+            <measureUnit>Tablespoon</measureUnit>
+            <unitsPerPackage>100.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Condiments</category>
+        </Ingredient>
+        <Ingredient id="36341904">
+            <name>Large Muffins</name>
+            <measureUnit/>
+            <unitsPerPackage>8.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Cereals</category>
+        </Ingredient>
+        <Ingredient id="8079487">
+            <name>Lettuce</name>
+            <measureUnit>Ounce</measureUnit>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Produce</category>
+        </Ingredient>
+        <Ingredient id="69633584">
+            <name>Marsh Mellows</name>
+            <measureUnit/>
+            <unitsPerPackage>32.0</unitsPerPackage>
+            <store>Winco</store>
+            <category>Deserts</category>
+        </Ingredient>
+        <Ingredient id="1">
+            <name>Milk</name>
+            <measureUnit>Cup</measureUnit>
+            <unitsPerPackage>32.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Dairy</category>
+        </Ingredient>
+        <Ingredient id="12567593">
+            <name>Misc. Cereal</name>
+            <measureUnit>Cup</measureUnit>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Cereals</category>
+        </Ingredient>
+        <Ingredient id="54730994">
+            <name>Misc. Soda</name>
+            <measureUnit>Can</measureUnit>
+            <unitsPerPackage>24.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Drinks</category>
+        </Ingredient>
+        <Ingredient id="5">
+            <name>Orange Juice</name>
+            <measureUnit>Ounce</measureUnit>
+            <unitsPerPackage>64.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Drinks</category>
+        </Ingredient>
+        <Ingredient id="47258191">
+            <name>Peanut Butter</name>
+            <measureUnit>Tablespoon</measureUnit>
+            <unitsPerPackage>32.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Condiments</category>
+        </Ingredient>
+        <Ingredient id="23364708">
+            <name>Pickle</name>
+            <measureUnit>Slice</measureUnit>
+            <unitsPerPackage>14.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Condiments</category>
+        </Ingredient>
+        <Ingredient id="33202181">
+            <name>Sliced Bread</name>
+            <measureUnit>Slice</measureUnit>
+            <unitsPerPackage>20.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Cereals</category>
+        </Ingredient>
+        <Ingredient id="3">
+            <name>Texas Toast</name>
+            <measureUnit>Slice</measureUnit>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Cereals</category>
+        </Ingredient>
+        <Ingredient id="62618471">
+            <name>Tomato</name>
+            <measureUnit/>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Produce</category>
+        </Ingredient>
+        <Ingredient id="2">
+            <name>Vanilla</name>
+            <measureUnit>Teaspoon</measureUnit>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Winco</store>
+            <category>Spices</category>
+        </Ingredient>
+    </Ingredients>
+    <Dishes>
+        <Dish id="70358835" name="Cereal">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="2.0" id="12567593"/>
+                <DishIngredient QuantityPerServing="12.0" id="5"/>
+            </DishIngredients>
+            <Description><![CDATA[Simple breakfast.]]></Description>
+            <PrepDirections><![CDATA[No Prep.]]></PrepDirections>
+        </Dish>
+        <Dish id="37988333" name="Deli Sandwiches">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="2.0" id="33202181"/>
+                <DishIngredient QuantityPerServing="3.0" id="8079487"/>
+                <DishIngredient QuantityPerServing="2.0" id="23364708"/>
+                <DishIngredient QuantityPerServing="0.2" id="62618471"/>
+                <DishIngredient QuantityPerServing="0.0" id="54730994"/>
+            </DishIngredients>
+            <Description><![CDATA[Description/Comments...]]></Description>
+            <PrepDirections><![CDATA[Preparation Instructions...]]></PrepDirections>
+        </Dish>
+        <Dish id="1" name="French Toast">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="0.3" id="1"/>
+                <DishIngredient QuantityPerServing="0.05" id="2"/>
+                <DishIngredient QuantityPerServing="2.0" id="3"/>
+                <DishIngredient QuantityPerServing="0.05" id="4"/>
+                <DishIngredient QuantityPerServing="12.0" id="5"/>
+                <DishIngredient QuantityPerServing="2.0" id="74265983"/>
+            </DishIngredients>
+            <Description><![CDATA[Fun breakfast meal.]]></Description>
+            <PrepDirections><![CDATA[Mix all ingredients in bowl and mix...]]></PrepDirections>
+        </Dish>
+        <Dish id="85621359" name="Hamburgers">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="1.0" id="95518909"/>
+                <DishIngredient QuantityPerServing="0.7" id="11574371"/>
+                <DishIngredient QuantityPerServing="0.3" id="77728744"/>
+                <DishIngredient QuantityPerServing="3.0" id="93970613"/>
+                <DishIngredient QuantityPerServing="3.0" id="8079487"/>
+                <DishIngredient QuantityPerServing="0.2" id="62618471"/>
+                <DishIngredient QuantityPerServing="0.0" id="54730994"/>
+            </DishIngredients>
+            <Description><![CDATA[Note: Requires time to prep the BBQ.]]></Description>
+            <PrepDirections><![CDATA[1.) Prepare BBQ
+2.) Place patties on grill.
+3.) ...]]></PrepDirections>
+        </Dish>
+        <Dish id="2" name="Peanut Butter and Jelly">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="2.0" id="47258191"/>
+                <DishIngredient QuantityPerServing="2.0" id="5707672"/>
+                <DishIngredient QuantityPerServing="2.0" id="33202181"/>
+            </DishIngredients>
+            <Description><![CDATA[Easy lunch or snack]]></Description>
+            <PrepDirections><![CDATA[Apply approximate 2 tbsp of jelly and PB to two slices of bread...]]></PrepDirections>
+        </Dish>
+        <Dish id="77929636" name="Scrambled Eggs">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="2.0" id="74265983"/>
+            </DishIngredients>
+            <Description><![CDATA[Description/Comments...]]></Description>
+            <PrepDirections><![CDATA[Preparation Instructions...]]></PrepDirections>
+        </Dish>
+        <Dish id="95239089" name="Smores">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="2.0" id="94179268"/>
+                <DishIngredient QuantityPerServing="2.0" id="69633584"/>
+                <DishIngredient QuantityPerServing="0.0" id="13784868"/>
+            </DishIngredients>
+            <Description><![CDATA[Description/Comments...]]></Description>
+            <PrepDirections><![CDATA[Preparation Instructions...]]></PrepDirections>
+        </Dish>
+    </Dishes>
+    <Menu>
+        <MenuDay dayName="Day 1" numPeople="10">
+            <MenuMeal name="Breakfast">
+                <MealDish id="1"/>
+                <MealDish id="77929636"/>
+            </MenuMeal>
+            <MenuMeal name="Lunch">
+                <MealDish id="2"/>
+            </MenuMeal>
+        </MenuDay>
+        <MenuDay dayName="Day 2" numPeople="20">
+            <MenuMeal name="Breakfast">
+                <MealDish id="70358835"/>
+            </MenuMeal>
+            <MenuMeal name="Lunch">
+                <MealDish id="37988333"/>
+            </MenuMeal>
+            <MenuMeal name="Dinner">
+                <MealDish id="85621359"/>
+            </MenuMeal>
+            <MenuMeal name="Desert">
+                <MealDish id="95239089"/>
+            </MenuMeal>
+        </MenuDay>
+    </Menu>
+</Base>

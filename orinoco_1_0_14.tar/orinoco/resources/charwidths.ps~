@@ -1,0 +1,31 @@
+/nstr 3 string def
+/char 1 string def
+
+/printn
+{
+  nstr cvs print
+} def
+
+/printchar
+{
+  char 0
+  3 -1 roll put
+  char stringwidth dup printn
+} def
+
+/printcodeandchar
+{
+dup printn
+( ) print
+dup printchar
+( ) print
+} def
+
+/Times-Roman findfont
+15 scalefont
+setfont
+72 200 moveto
+0 1 255 {printcodeandchar} for
+
+showpage
+

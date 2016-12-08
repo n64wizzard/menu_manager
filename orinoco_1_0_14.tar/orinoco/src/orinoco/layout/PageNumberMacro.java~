@@ -1,0 +1,67 @@
+// ****************************************************************************
+//          Copyright (c) Chase Manhattan Corporation Bank  2002 
+//                          All Rights Reserved
+// ****************************************************************************
+// Who           Description 
+// ===           ==============================================================
+// 
+// ****************************************************************************
+
+package orinoco.layout;
+
+import orinoco.TextMacro;
+
+/**
+ * A text macro which displays the current page number
+ */
+public class PageNumberMacro implements TextMacro
+{
+  /**
+   * Any preamble to the page number (eg. the string "page")
+   */
+  private String pre;
+  /**
+   * Any afterword to the page number
+   */
+  private String post;
+  /**
+   * The owning document
+   */
+  private DocumentLayout doc;
+
+  /**
+   * Constructor
+   * 
+   * @param dl the document
+   */
+  protected PageNumberMacro(DocumentLayout dl)
+  {
+    doc = dl;
+    pre = "";
+    post = "";
+  }
+
+  /**
+   * Constructor
+   * 
+   * @param dl the document
+   * @param pre preamble
+   * @param post postamble, if thats a word
+   */
+  protected PageNumberMacro(String pre, String post, DocumentLayout dl)
+  {
+    this.pre = pre;
+    this.post = post;
+    doc = dl;
+  }
+
+  /**
+   * Gets the dynamic text for this macro
+   * 
+   * @return the dynamically varying text
+   */
+  public String getText()
+  {
+    return pre + doc.getCurrentPage() + post;
+  }
+}

@@ -1,0 +1,64 @@
+/*********************************************************************
+*
+*      Copyright (C) 2002 Andrew Khan
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2.1 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the Free Software
+* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+***************************************************************************/
+
+package orinoco.demo;
+
+import java.io.FileOutputStream;
+import java.io.File;
+import orinoco.Document;
+import orinoco.Heading;
+import orinoco.Column;
+import orinoco.Font;
+import orinoco.Table;
+import orinoco.Alignment;
+import orinoco.LayoutWriter;
+import orinoco.TextWriter;
+import orinoco.Paper;
+import orinoco.PageNumber;
+import orinoco.PostscriptWriter;
+import orinoco.PDFWriter;
+import orinoco.Colour;
+
+/**
+ * Demo.  Writes hello world in a times bold font
+ */
+public class UnicodeTest
+{
+  public static void main(String args[])
+  {
+    try
+    {
+      Document doc = new Document
+        (Paper.LETTER, new PDFWriter(new File("unicodetest.pdf")));
+      
+      Font f = new Font(Font.TIMES_BOLD, 14);
+      doc.open();
+      doc.writeLine("A test for unicode characters within strings");
+      doc.newLine();
+      doc.writeLine("A thorn character \"\\376\"");
+      doc.writeLine("A dagger character \"\\262\"");
+      doc.writeLine("A ccedilla character \"\\347\"");
+      doc.close();
+    }
+    catch (Throwable t)
+    {
+      t.printStackTrace();
+    }
+  }
+}

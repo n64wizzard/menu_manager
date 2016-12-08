@@ -1,0 +1,46 @@
+<project name="orinoco" default="orinoco">
+ 
+  <property name="jarFile" value="../orinoco.jar" />
+  <property name="outputDir" value="out" />
+  <property name="docsDir" value="../docs" />
+  <property name="sourceDir" value="../src" />
+  <property name="resourcesDir" value="../resources" />
+
+  <target name="init">
+    <tstamp />
+    <mkdir dir="${outputDir}" />
+  </target>
+
+  <target name="orinoco" depends="init">
+    <javac destdir="${outputDir}" 
+           srcdir="${sourceDir}"
+           debug="true" 
+           deprecation="on" />
+    <jar jarfile="${jarFile}" 
+         basedir="${outputDir}">
+      <!-- <fileset dir="${resourcesDir}" /> -->
+    </jar>
+  </target>
+
+  <target name="orinocoall" depends="clean, orinoco, docs">
+  </target>
+
+  <target name="docs" depends="init">
+    <delete dir="${docsDir}" />
+    <mkdir dir="${docsDir}" />
+    <javadoc sourcepath="${sourceDir}"
+             destdir="${docsDir}"
+             public="true"
+             nodeprecated="true">
+      <package name="orinoco" />
+     </javadoc>
+  </target>
+
+  <target name="clean" depends="init">
+    <delete includeEmptyDirs="true">
+      <fileset  dir="${outputDir}" includes="*/**" />
+    </delete>
+    <delete file="${jarFile}" />
+  </target>
+
+</project>

@@ -1,0 +1,54 @@
+// ****************************************************************************
+//          Copyright (c) Chase Manhattan Corporation Bank  2002 
+//                          All Rights Reserved
+// ****************************************************************************
+// Who           Description 
+// ===           ==============================================================
+// 
+// ****************************************************************************
+
+package orinoco.layout;
+
+import java.io.IOException;
+import orinoco.Alignment;
+import orinoco.write.FormatWriter;
+
+/**
+ * Atomic command implementation
+ */
+class WriteMoveTo implements Command
+{
+  /**
+   * the output writer
+   */
+  private FormatWriter writer;
+  /**
+   * the new x position on the page
+   */
+  private double x;
+  /**
+   * the new y position on the page
+   */
+  private double y;
+
+  /**
+   * Constructor
+   * 
+   * @param y the y position
+   * @param fw the output writer
+   * @param x the x position
+   */
+  public WriteMoveTo(FormatWriter fw, double x, double y)
+  {
+    writer = fw;
+    this.x = x;
+    this.y = y;
+  }
+
+  /**
+   */
+  public void execute() throws IOException
+  {
+    writer.writeMoveTo(x,y);
+  }
+}

@@ -1,0 +1,8096 @@
+%PDF-1.2
+5 0 obj
+<<
+/Length 6 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 1)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+1 0 0 1 28 735 Tm
+(Default Font)Tj
+/F2 14 Tf
+1 0 0 1 28 721 Tm
+(14 point times bold)Tj
+/F3 10 Tf
+1 0 0 1 28 697 Tm
+(10 point times italic)Tj
+/F0 10 Tf
+1 0 0 1 28 687 Tm
+(Back to default)Tj
+1 0 0 1 28 667 Tm
+(Various fonts on one line:)Tj
+/F4 13 Tf
+1 0 0 1 28 654 Tm
+(Helvetica 13pt)Tj
+/F5 11 Tf
+(Courier 11pt)Tj
+/F0 10 Tf
+(Default font)Tj
+ET
+q
+1 w 28 652 m 584 652 l s 
+Q
+BT
+1 0 0 1 28 631 Tm
+(This is a very long line, that will take more than one a4 line to display.  Cold are the hands of time that creep along relentlessly, destroying)Tj
+1 0 0 1 28 621 Tm
+(slowly but without pity that which yesterday was young.  Alone our memories resist this disintegration and grow more lovely with the)Tj
+1 0 0 1 28 611 Tm
+(passing years.)Tj
+ET
+q
+1 w 28 609 m 584 609 l s 
+Q
+BT
+1 0 0 1 503 598 Tm
+(This is right aligned)Tj
+1 0 0 1 433 588 Tm
+(This piece of text is also right aligned)Tj
+1 0 0 1 433 578 Tm
+(Normal again)Tj
+1 0 0 1 290 568 Tm
+(Centred)Tj
+1 0 0 1 28 548 Tm
+(Some tabs)Tj
+/F1 8 Tf
+1 0 0 1 28 540 Tm
+(Some preamble)Tj
+/F0 10 Tf
+1 0 0 1 113 538 Tm
+(tab1)Tj
+1 0 0 1 283 538 Tm
+(tab2)Tj
+1 0 0 1 340 538 Tm
+(tab3)Tj
+1 0 0 1 113 528 Tm
+(another tab)Tj
+1 0 0 1 283 528 Tm
+(yet another tab)Tj
+1 0 0 1 28 518 Tm
+(Not tabbed)Tj
+1 0 0 1 28 498 Tm
+(\(Text in round brackets\))Tj
+1 0 0 1 28 488 Tm
+(\(More text in round brackets\) outside brackets)Tj
+1 0 0 1 28 478 Tm
+([Text in square brakets])Tj
+1 0 0 1 28 468 Tm
+({Text in curly brackets})Tj
+1 0 0 1 28 458 Tm
+(Open a single bracket \(and write some text)Tj
+1 0 0 1 28 448 Tm
+(close the above bracket\))Tj
+1 0 0 1 113 418 Tm
+(This is a block of text that has been indented at the current tab position so that every line break automatically shifts)Tj
+1 0 0 1 113 408 Tm
+(inwards.  This remains in effect until the the indent is explicitly released)Tj
+1 0 0 1 28 398 Tm
+(The indentation has now been released)Tj
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 1)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+6 0 obj
+2155
+endobj
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 4 0 R
+/Contents 5 0 R
+>>
+endobj
+4 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F3 10 0 R /F5 12 0 R /F0 7 0 R /F1 8 0 R /F4 11 0 R /F2 9 0 R>>
+>>
+endobj
+15 0 obj
+<<
+/Length 16 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 2)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+/F0 10 Tf
+1 0 0 1 28 735 Tm
+(New page)Tj
+ET
+q
+0.8 g 28 735 m 388 735 l 388 718 l 28 718 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 722 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 135 722 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 244 722 Tm
+(Header 3)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 335 722 Tm
+(Header 4)Tj
+/F0 10 Tf
+1 0 0 1 28 718 Tm
+/F4 8 Tf
+1 0 0 1 28 710 Tm
+(op\(en)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 152 710 Tm
+(clo\)se)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 288 710 Tm
+(\(enclosed\))Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 710 Tm
+(Some)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 702 Tm
+(\(wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 694 Tm
+(parentheses\))Tj
+/F0 10 Tf
+1 0 0 1 28 694 Tm
+/F4 8 Tf
+1 0 0 1 28 686 Tm
+(left 0)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 686 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 686 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 686 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 678 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 678 Tm
+/F4 8 Tf
+1 0 0 1 28 670 Tm
+(left 1)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 670 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 670 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 670 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 662 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 662 Tm
+/F4 8 Tf
+1 0 0 1 28 654 Tm
+(left 2)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 654 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 654 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 654 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 646 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 646 Tm
+/F4 8 Tf
+1 0 0 1 28 638 Tm
+(left 3)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 638 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 638 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 638 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 630 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 630 Tm
+/F4 8 Tf
+1 0 0 1 28 622 Tm
+(left 4)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 622 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 622 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 622 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 614 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 614 Tm
+/F4 8 Tf
+1 0 0 1 28 606 Tm
+(left 5)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 606 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 606 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 606 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 598 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 598 Tm
+/F4 8 Tf
+1 0 0 1 28 590 Tm
+(left 6)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 590 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 590 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 590 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 582 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 582 Tm
+/F4 8 Tf
+1 0 0 1 28 574 Tm
+(left 7)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 574 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 574 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 574 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 566 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 566 Tm
+/F4 8 Tf
+1 0 0 1 28 558 Tm
+(left 8)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 558 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 558 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 558 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 550 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 550 Tm
+/F4 8 Tf
+1 0 0 1 28 542 Tm
+(left 9)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 542 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 542 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 542 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 534 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 534 Tm
+/F4 8 Tf
+1 0 0 1 28 526 Tm
+(left 10)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 526 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 526 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 526 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 518 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 518 Tm
+/F4 8 Tf
+1 0 0 1 28 510 Tm
+(left 11)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 510 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 510 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 510 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 502 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 502 Tm
+/F4 8 Tf
+1 0 0 1 28 494 Tm
+(left 12)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 494 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 494 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 494 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 486 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 486 Tm
+/F4 8 Tf
+1 0 0 1 28 478 Tm
+(left 13)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 478 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 478 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 478 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 470 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 470 Tm
+/F4 8 Tf
+1 0 0 1 28 462 Tm
+(left 14)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 462 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 462 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 462 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 454 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 454 Tm
+/F4 8 Tf
+1 0 0 1 28 446 Tm
+(left 15)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 446 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 446 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 446 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 438 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 438 Tm
+/F4 8 Tf
+1 0 0 1 28 430 Tm
+(left 16)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 430 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 430 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 430 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 422 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 422 Tm
+/F4 8 Tf
+1 0 0 1 28 414 Tm
+(left 17)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 414 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 414 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 414 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 406 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 406 Tm
+/F4 8 Tf
+1 0 0 1 28 398 Tm
+(left 18)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 398 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 398 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 398 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 390 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 390 Tm
+/F4 8 Tf
+1 0 0 1 28 382 Tm
+(left 19)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 382 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 382 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 382 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 374 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 374 Tm
+/F4 8 Tf
+1 0 0 1 28 366 Tm
+(left 20)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 366 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 366 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 366 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 358 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 358 Tm
+/F4 8 Tf
+1 0 0 1 28 350 Tm
+(left 21)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 350 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 350 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 350 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 342 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 342 Tm
+/F4 8 Tf
+1 0 0 1 28 334 Tm
+(left 22)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 334 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 334 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 334 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 326 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 326 Tm
+/F4 8 Tf
+1 0 0 1 28 318 Tm
+(left 23)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 318 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 318 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 318 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 310 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 310 Tm
+/F4 8 Tf
+1 0 0 1 28 302 Tm
+(left 24)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 302 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 302 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 302 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 294 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 294 Tm
+/F4 8 Tf
+1 0 0 1 28 286 Tm
+(left 25)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 286 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 286 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 286 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 278 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 278 Tm
+/F4 8 Tf
+1 0 0 1 28 270 Tm
+(left 26)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 270 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 270 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 270 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 262 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 262 Tm
+/F4 8 Tf
+1 0 0 1 28 254 Tm
+(left 27)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 254 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 254 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 254 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 246 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 246 Tm
+/F4 8 Tf
+1 0 0 1 28 238 Tm
+(left 28)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 238 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 238 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 238 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 230 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 230 Tm
+/F4 8 Tf
+1 0 0 1 28 222 Tm
+(left 29)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 222 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 222 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 222 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 214 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 214 Tm
+/F4 8 Tf
+1 0 0 1 28 206 Tm
+(left 30)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 206 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 206 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 206 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 198 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 198 Tm
+/F4 8 Tf
+1 0 0 1 28 190 Tm
+(left 31)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 190 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 190 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 190 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 182 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 182 Tm
+/F4 8 Tf
+1 0 0 1 28 174 Tm
+(left 32)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 174 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 174 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 174 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 166 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 166 Tm
+/F4 8 Tf
+1 0 0 1 28 158 Tm
+(left 33)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 158 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 158 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 158 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 150 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 150 Tm
+/F4 8 Tf
+1 0 0 1 28 142 Tm
+(left 34)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 142 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 142 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 142 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 134 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 134 Tm
+/F4 8 Tf
+1 0 0 1 28 126 Tm
+(left 35)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 126 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 126 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 126 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 118 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 118 Tm
+/F4 8 Tf
+1 0 0 1 28 110 Tm
+(left 36)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 110 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 110 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 110 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 102 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 102 Tm
+/F4 8 Tf
+1 0 0 1 28 94 Tm
+(left 37)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 94 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 94 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 94 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 86 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 86 Tm
+/F4 8 Tf
+1 0 0 1 28 78 Tm
+(left 38)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 78 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 78 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 78 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 70 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 70 Tm
+/F4 8 Tf
+1 0 0 1 28 62 Tm
+(left 39)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 62 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 62 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 62 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 54 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 54 Tm
+/F4 8 Tf
+1 0 0 1 28 46 Tm
+(left 40)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 46 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 46 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 46 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 38 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 38 Tm
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 2)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+16 0 obj
+12314
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 14 0 R
+/Contents 15 0 R
+>>
+endobj
+14 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F4 11 0 R /F2 9 0 R>>
+>>
+endobj
+19 0 obj
+<<
+/Length 20 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 3)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.8 g 28 745 m 388 745 l 388 728 l 28 728 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 732 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 135 732 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 244 732 Tm
+(Header 3)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 335 732 Tm
+(Header 4)Tj
+/F0 10 Tf
+1 0 0 1 28 728 Tm
+/F4 8 Tf
+1 0 0 1 28 720 Tm
+(left 41)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 720 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 720 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 720 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 712 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 712 Tm
+/F4 8 Tf
+1 0 0 1 28 704 Tm
+(left 42)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 704 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 704 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 704 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 696 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 696 Tm
+/F4 8 Tf
+1 0 0 1 28 688 Tm
+(left 43)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 688 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 688 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 688 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 680 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 680 Tm
+/F4 8 Tf
+1 0 0 1 28 672 Tm
+(left 44)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 672 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 672 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 672 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 664 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 664 Tm
+/F4 8 Tf
+1 0 0 1 28 656 Tm
+(left 45)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 656 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 656 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 656 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 648 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 648 Tm
+/F4 8 Tf
+1 0 0 1 28 640 Tm
+(left 46)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 640 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 640 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 640 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 632 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 632 Tm
+/F4 8 Tf
+1 0 0 1 28 624 Tm
+(left 47)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 624 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 624 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 624 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 616 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 616 Tm
+/F4 8 Tf
+1 0 0 1 28 608 Tm
+(left 48)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 608 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 608 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 608 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 600 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 600 Tm
+/F4 8 Tf
+1 0 0 1 28 592 Tm
+(left 49)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 592 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 592 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 592 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 584 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 584 Tm
+/F4 8 Tf
+1 0 0 1 28 576 Tm
+(left 50)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 576 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 576 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 576 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 568 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 568 Tm
+/F4 8 Tf
+1 0 0 1 28 560 Tm
+(left 51)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 560 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 560 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 560 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 552 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 552 Tm
+/F4 8 Tf
+1 0 0 1 28 544 Tm
+(left 52)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 544 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 544 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 544 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 536 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 536 Tm
+/F4 8 Tf
+1 0 0 1 28 528 Tm
+(left 53)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 528 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 528 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 528 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 520 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 520 Tm
+/F4 8 Tf
+1 0 0 1 28 512 Tm
+(left 54)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 512 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 512 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 512 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 504 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 504 Tm
+/F4 8 Tf
+1 0 0 1 28 496 Tm
+(left 55)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 496 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 496 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 496 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 488 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 488 Tm
+/F4 8 Tf
+1 0 0 1 28 480 Tm
+(left 56)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 480 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 480 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 480 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 472 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 472 Tm
+/F4 8 Tf
+1 0 0 1 28 464 Tm
+(left 57)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 464 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 464 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 464 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 456 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 456 Tm
+/F4 8 Tf
+1 0 0 1 28 448 Tm
+(left 58)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 448 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 448 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 448 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 440 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 440 Tm
+/F4 8 Tf
+1 0 0 1 28 432 Tm
+(left 59)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 432 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 432 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 432 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 424 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 424 Tm
+/F4 8 Tf
+1 0 0 1 28 416 Tm
+(left 60)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 416 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 416 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 416 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 408 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 408 Tm
+/F4 8 Tf
+1 0 0 1 28 400 Tm
+(left 61)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 400 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 400 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 400 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 392 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 392 Tm
+/F4 8 Tf
+1 0 0 1 28 384 Tm
+(left 62)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 384 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 384 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 384 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 376 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 376 Tm
+/F4 8 Tf
+1 0 0 1 28 368 Tm
+(left 63)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 368 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 368 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 368 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 360 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 360 Tm
+/F4 8 Tf
+1 0 0 1 28 352 Tm
+(left 64)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 352 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 352 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 352 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 344 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 344 Tm
+/F4 8 Tf
+1 0 0 1 28 336 Tm
+(left 65)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 336 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 336 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 336 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 328 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 328 Tm
+/F4 8 Tf
+1 0 0 1 28 320 Tm
+(left 66)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 320 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 320 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 320 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 312 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 312 Tm
+/F4 8 Tf
+1 0 0 1 28 304 Tm
+(left 67)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 304 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 304 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 304 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 296 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 296 Tm
+/F4 8 Tf
+1 0 0 1 28 288 Tm
+(left 68)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 288 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 288 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 288 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 280 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 280 Tm
+/F4 8 Tf
+1 0 0 1 28 272 Tm
+(left 69)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 272 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 272 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 272 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 264 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 264 Tm
+/F4 8 Tf
+1 0 0 1 28 256 Tm
+(left 70)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 256 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 256 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 256 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 248 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 248 Tm
+/F4 8 Tf
+1 0 0 1 28 240 Tm
+(left 71)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 240 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 240 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 240 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 232 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 232 Tm
+/F4 8 Tf
+1 0 0 1 28 224 Tm
+(left 72)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 224 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 224 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 224 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 216 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 216 Tm
+/F4 8 Tf
+1 0 0 1 28 208 Tm
+(left 73)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 208 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 208 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 208 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 200 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 200 Tm
+/F4 8 Tf
+1 0 0 1 28 192 Tm
+(left 74)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 192 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 192 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 192 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 184 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 184 Tm
+/F4 8 Tf
+1 0 0 1 28 176 Tm
+(left 75)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 176 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 176 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 176 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 168 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 168 Tm
+/F4 8 Tf
+1 0 0 1 28 160 Tm
+(left 76)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 160 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 160 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 160 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 152 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 152 Tm
+/F4 8 Tf
+1 0 0 1 28 144 Tm
+(left 77)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 144 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 144 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 144 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 136 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 136 Tm
+/F4 8 Tf
+1 0 0 1 28 128 Tm
+(left 78)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 128 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 128 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 128 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 120 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 120 Tm
+/F4 8 Tf
+1 0 0 1 28 112 Tm
+(left 79)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 112 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 112 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 112 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 104 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 104 Tm
+/F4 8 Tf
+1 0 0 1 28 96 Tm
+(left 80)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 96 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 96 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 96 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 88 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 88 Tm
+/F4 8 Tf
+1 0 0 1 28 80 Tm
+(left 81)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 80 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 80 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 80 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 72 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 72 Tm
+/F4 8 Tf
+1 0 0 1 28 64 Tm
+(left 82)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 64 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 64 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 64 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 56 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 56 Tm
+/F4 8 Tf
+1 0 0 1 28 48 Tm
+(left 83)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 48 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 48 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 48 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 40 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 40 Tm
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 3)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+20 0 obj
+12523
+endobj
+17 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 18 0 R
+/Contents 19 0 R
+>>
+endobj
+18 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F4 11 0 R /F2 9 0 R>>
+>>
+endobj
+23 0 obj
+<<
+/Length 24 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 4)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.8 g 28 745 m 388 745 l 388 728 l 28 728 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 732 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 135 732 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 244 732 Tm
+(Header 3)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 335 732 Tm
+(Header 4)Tj
+/F0 10 Tf
+1 0 0 1 28 728 Tm
+/F4 8 Tf
+1 0 0 1 28 720 Tm
+(left 84)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 720 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 720 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 720 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 712 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 712 Tm
+/F4 8 Tf
+1 0 0 1 28 704 Tm
+(left 85)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 704 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 704 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 704 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 696 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 696 Tm
+/F4 8 Tf
+1 0 0 1 28 688 Tm
+(left 86)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 688 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 688 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 688 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 680 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 680 Tm
+/F4 8 Tf
+1 0 0 1 28 672 Tm
+(left 87)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 672 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 672 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 672 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 664 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 664 Tm
+/F4 8 Tf
+1 0 0 1 28 656 Tm
+(left 88)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 656 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 656 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 656 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 648 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 648 Tm
+/F4 8 Tf
+1 0 0 1 28 640 Tm
+(left 89)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 640 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 640 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 640 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 632 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 632 Tm
+/F4 8 Tf
+1 0 0 1 28 624 Tm
+(left 90)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 624 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 624 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 624 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 616 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 616 Tm
+/F4 8 Tf
+1 0 0 1 28 608 Tm
+(left 91)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 608 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 608 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 608 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 600 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 600 Tm
+/F4 8 Tf
+1 0 0 1 28 592 Tm
+(left 92)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 592 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 592 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 592 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 584 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 584 Tm
+/F4 8 Tf
+1 0 0 1 28 576 Tm
+(left 93)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 576 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 576 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 576 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 568 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 568 Tm
+/F4 8 Tf
+1 0 0 1 28 560 Tm
+(left 94)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 560 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 560 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 560 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 552 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 552 Tm
+/F4 8 Tf
+1 0 0 1 28 544 Tm
+(left 95)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 544 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 544 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 544 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 536 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 536 Tm
+/F4 8 Tf
+1 0 0 1 28 528 Tm
+(left 96)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 528 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 528 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 528 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 520 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 520 Tm
+/F4 8 Tf
+1 0 0 1 28 512 Tm
+(left 97)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 512 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 512 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 512 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 504 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 504 Tm
+/F4 8 Tf
+1 0 0 1 28 496 Tm
+(left 98)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 496 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 496 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 496 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 488 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 488 Tm
+/F4 8 Tf
+1 0 0 1 28 480 Tm
+(left 99)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 144 480 Tm
+(Some data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 267 480 Tm
+(Some more data)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 480 Tm
+(Some wrapped)Tj
+/F0 10 Tf
+/F4 8 Tf
+1 0 0 1 332 472 Tm
+(text)Tj
+/F0 10 Tf
+1 0 0 1 28 472 Tm
+1 0 0 1 28 462 Tm
+(The table has ended.  There now follows a table with horizontal borders)Tj
+ET
+q
+0.8 g 28 452 m 198 452 l 198 435 l 28 435 l h f
+Q
+q
+1 w 28 452 m 198 452 l s 
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 439 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 128 439 Tm
+(Heading 2)Tj
+/F0 10 Tf
+1 0 0 1 28 435 Tm
+ET
+q
+1 w 28 435 m 198 435 l s 
+Q
+BT
+1 0 0 1 28 424 Tm
+(Data item 0)Tj
+1 0 0 1 113 424 Tm
+(Data value)Tj
+1 0 0 1 28 424 Tm
+ET
+q
+1 w 28 422 m 198 422 l s 
+Q
+BT
+1 0 0 1 28 411 Tm
+(Data item 1)Tj
+1 0 0 1 113 411 Tm
+(Data value)Tj
+1 0 0 1 28 411 Tm
+ET
+q
+1 w 28 409 m 198 409 l s 
+Q
+BT
+1 0 0 1 28 398 Tm
+(Data item 2)Tj
+1 0 0 1 113 398 Tm
+(Data value)Tj
+1 0 0 1 28 398 Tm
+ET
+q
+1 w 28 396 m 198 396 l s 
+Q
+BT
+1 0 0 1 28 385 Tm
+(Data item 3)Tj
+1 0 0 1 113 385 Tm
+(Data value)Tj
+1 0 0 1 28 385 Tm
+ET
+q
+1 w 28 383 m 198 383 l s 
+Q
+BT
+1 0 0 1 28 372 Tm
+(Data item 4)Tj
+1 0 0 1 113 372 Tm
+(Data value)Tj
+1 0 0 1 28 372 Tm
+ET
+q
+1 w 28 370 m 198 370 l s 
+Q
+BT
+1 0 0 1 28 359 Tm
+(Data item 5)Tj
+1 0 0 1 113 359 Tm
+(Data value)Tj
+1 0 0 1 28 359 Tm
+ET
+q
+1 w 28 357 m 198 357 l s 
+Q
+BT
+1 0 0 1 28 346 Tm
+(Data item 6)Tj
+1 0 0 1 113 346 Tm
+(Data value)Tj
+1 0 0 1 28 346 Tm
+ET
+q
+1 w 28 344 m 198 344 l s 
+Q
+BT
+1 0 0 1 28 333 Tm
+(Data item 7)Tj
+1 0 0 1 113 333 Tm
+(Data value)Tj
+1 0 0 1 28 333 Tm
+ET
+q
+1 w 28 331 m 198 331 l s 
+Q
+BT
+1 0 0 1 28 320 Tm
+(Data item 8)Tj
+1 0 0 1 113 320 Tm
+(Data value)Tj
+1 0 0 1 28 320 Tm
+ET
+q
+1 w 28 318 m 198 318 l s 
+Q
+BT
+1 0 0 1 28 307 Tm
+(Data item 9)Tj
+1 0 0 1 113 307 Tm
+(Data value)Tj
+1 0 0 1 28 307 Tm
+ET
+q
+1 w 28 305 m 198 305 l s 
+Q
+BT
+1 0 0 1 28 294 Tm
+(Data item 10)Tj
+1 0 0 1 113 294 Tm
+(Data value)Tj
+1 0 0 1 28 294 Tm
+ET
+q
+1 w 28 292 m 198 292 l s 
+Q
+BT
+1 0 0 1 28 281 Tm
+(Data item 11)Tj
+1 0 0 1 113 281 Tm
+(Data value)Tj
+1 0 0 1 28 281 Tm
+ET
+q
+1 w 28 279 m 198 279 l s 
+Q
+BT
+1 0 0 1 28 268 Tm
+(Data item 12)Tj
+1 0 0 1 113 268 Tm
+(Data value)Tj
+1 0 0 1 28 268 Tm
+ET
+q
+1 w 28 266 m 198 266 l s 
+Q
+BT
+1 0 0 1 28 255 Tm
+(Data item 13)Tj
+1 0 0 1 113 255 Tm
+(Data value)Tj
+1 0 0 1 28 255 Tm
+ET
+q
+1 w 28 253 m 198 253 l s 
+Q
+BT
+1 0 0 1 28 242 Tm
+(Data item 14)Tj
+1 0 0 1 113 242 Tm
+(Data value)Tj
+1 0 0 1 28 242 Tm
+ET
+q
+1 w 28 240 m 198 240 l s 
+Q
+BT
+1 0 0 1 28 229 Tm
+(Data item 15)Tj
+1 0 0 1 113 229 Tm
+(Data value)Tj
+1 0 0 1 28 229 Tm
+ET
+q
+1 w 28 227 m 198 227 l s 
+Q
+BT
+1 0 0 1 28 216 Tm
+(Data item 16)Tj
+1 0 0 1 113 216 Tm
+(Data value)Tj
+1 0 0 1 28 216 Tm
+ET
+q
+1 w 28 214 m 198 214 l s 
+Q
+BT
+1 0 0 1 28 203 Tm
+(Data item 17)Tj
+1 0 0 1 113 203 Tm
+(Data value)Tj
+1 0 0 1 28 203 Tm
+ET
+q
+1 w 28 201 m 198 201 l s 
+Q
+BT
+1 0 0 1 28 190 Tm
+(Data item 18)Tj
+1 0 0 1 113 190 Tm
+(Data value)Tj
+1 0 0 1 28 190 Tm
+ET
+q
+1 w 28 188 m 198 188 l s 
+Q
+BT
+1 0 0 1 28 177 Tm
+(Data item 19)Tj
+1 0 0 1 113 177 Tm
+(Data value)Tj
+1 0 0 1 28 177 Tm
+ET
+q
+1 w 28 175 m 198 175 l s 
+Q
+BT
+1 0 0 1 28 164 Tm
+(And now a table demonstrating column spanning and underlining on alternate rows)Tj
+ET
+q
+0.8 g 28 154 m 283 154 l 283 137 l 28 137 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 141 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 128 141 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 217 141 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 137 Tm
+1 0 0 1 28 127 Tm
+(Data item 0)Tj
+1 0 0 1 113 127 Tm
+(Data value)Tj
+1 0 0 1 198 127 Tm
+(Data value)Tj
+1 0 0 1 28 127 Tm
+1 0 0 1 28 117 Tm
+(Span)Tj
+1 0 0 1 113 117 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 117 Tm
+ET
+q
+1 w 28 115 m 283 115 l s 
+Q
+BT
+1 0 0 1 28 104 Tm
+(Data item 1)Tj
+1 0 0 1 113 104 Tm
+(Data value)Tj
+1 0 0 1 198 104 Tm
+(Data value)Tj
+1 0 0 1 28 104 Tm
+1 0 0 1 28 94 Tm
+(Span)Tj
+1 0 0 1 113 94 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 94 Tm
+ET
+q
+1 w 28 92 m 283 92 l s 
+Q
+BT
+1 0 0 1 28 81 Tm
+(Data item 2)Tj
+1 0 0 1 113 81 Tm
+(Data value)Tj
+1 0 0 1 198 81 Tm
+(Data value)Tj
+1 0 0 1 28 81 Tm
+1 0 0 1 28 71 Tm
+(Span)Tj
+1 0 0 1 113 71 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 71 Tm
+ET
+q
+1 w 28 69 m 283 69 l s 
+Q
+BT
+1 0 0 1 28 58 Tm
+(Data item 3)Tj
+1 0 0 1 113 58 Tm
+(Data value)Tj
+1 0 0 1 198 58 Tm
+(Data value)Tj
+1 0 0 1 28 58 Tm
+1 0 0 1 28 48 Tm
+(Span)Tj
+1 0 0 1 113 48 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 48 Tm
+ET
+q
+1 w 28 46 m 283 46 l s 
+Q
+BT
+1 0 0 1 28 35 Tm
+(Data item 4)Tj
+1 0 0 1 113 35 Tm
+(Data value)Tj
+1 0 0 1 198 35 Tm
+(Data value)Tj
+1 0 0 1 28 35 Tm
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 4)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+24 0 obj
+9265
+endobj
+21 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 22 0 R
+/Contents 23 0 R
+>>
+endobj
+22 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F4 11 0 R /F2 9 0 R>>
+>>
+endobj
+27 0 obj
+<<
+/Length 28 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 5)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.8 g 28 745 m 283 745 l 283 728 l 28 728 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 732 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 128 732 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 217 732 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 728 Tm
+1 0 0 1 28 718 Tm
+(Span)Tj
+1 0 0 1 113 718 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 718 Tm
+ET
+q
+1 w 28 716 m 283 716 l s 
+Q
+BT
+1 0 0 1 28 705 Tm
+(Data item 5)Tj
+1 0 0 1 113 705 Tm
+(Data value)Tj
+1 0 0 1 198 705 Tm
+(Data value)Tj
+1 0 0 1 28 705 Tm
+1 0 0 1 28 695 Tm
+(Span)Tj
+1 0 0 1 113 695 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 695 Tm
+ET
+q
+1 w 28 693 m 283 693 l s 
+Q
+BT
+1 0 0 1 28 682 Tm
+(Data item 6)Tj
+1 0 0 1 113 682 Tm
+(Data value)Tj
+1 0 0 1 198 682 Tm
+(Data value)Tj
+1 0 0 1 28 682 Tm
+1 0 0 1 28 672 Tm
+(Span)Tj
+1 0 0 1 113 672 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 672 Tm
+ET
+q
+1 w 28 670 m 283 670 l s 
+Q
+BT
+1 0 0 1 28 659 Tm
+(Data item 7)Tj
+1 0 0 1 113 659 Tm
+(Data value)Tj
+1 0 0 1 198 659 Tm
+(Data value)Tj
+1 0 0 1 28 659 Tm
+1 0 0 1 28 649 Tm
+(Span)Tj
+1 0 0 1 113 649 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 649 Tm
+ET
+q
+1 w 28 647 m 283 647 l s 
+Q
+BT
+1 0 0 1 28 636 Tm
+(Data item 8)Tj
+1 0 0 1 113 636 Tm
+(Data value)Tj
+1 0 0 1 198 636 Tm
+(Data value)Tj
+1 0 0 1 28 636 Tm
+1 0 0 1 28 626 Tm
+(Span)Tj
+1 0 0 1 113 626 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 626 Tm
+ET
+q
+1 w 28 624 m 283 624 l s 
+Q
+BT
+1 0 0 1 28 613 Tm
+(Data item 9)Tj
+1 0 0 1 113 613 Tm
+(Data value)Tj
+1 0 0 1 198 613 Tm
+(Data value)Tj
+1 0 0 1 28 613 Tm
+1 0 0 1 28 603 Tm
+(Span)Tj
+1 0 0 1 113 603 Tm
+(This text spans two columns)Tj
+1 0 0 1 28 603 Tm
+ET
+q
+1 w 28 601 m 283 601 l s 
+Q
+BT
+1 0 0 1 28 590 Tm
+(New lines embedded)Tj
+1 0 0 1 28 580 Tm
+(in the text are)Tj
+1 0 0 1 28 570 Tm
+(ignored)Tj
+1 0 0 1 113 590 Tm
+(Data item)Tj
+1 0 0 1 113 580 Tm
+(with\nembedded\nne)Tj
+1 0 0 1 113 570 Tm
+(w line\ncharacters)Tj
+1 0 0 1 28 570 Tm
+1 0 0 1 28 570 Tm
+ET
+q
+1 w 28 568 m 283 568 l s 
+Q
+BT
+1 0 0 1 28 547 Tm
+(Table with a border)Tj
+ET
+q
+0.8 g 28 537 m 283 537 l 283 520 l 28 520 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 524 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 128 524 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 217 524 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 520 Tm
+1 0 0 1 28 510 Tm
+(Data item 0)Tj
+1 0 0 1 155 510 Tm
+(Data value)Tj
+1 0 0 1 240 510 Tm
+(Data value)Tj
+1 0 0 1 28 510 Tm
+1 0 0 1 28 500 Tm
+(Data item 1)Tj
+1 0 0 1 155 500 Tm
+(Data value)Tj
+1 0 0 1 240 500 Tm
+(Data value)Tj
+1 0 0 1 28 500 Tm
+1 0 0 1 28 490 Tm
+(Data item 2)Tj
+1 0 0 1 155 490 Tm
+(Data value)Tj
+1 0 0 1 240 490 Tm
+(Data value)Tj
+1 0 0 1 28 490 Tm
+1 0 0 1 28 480 Tm
+(Data item 3)Tj
+1 0 0 1 155 480 Tm
+(Data value)Tj
+1 0 0 1 240 480 Tm
+(Data value)Tj
+1 0 0 1 28 480 Tm
+1 0 0 1 28 470 Tm
+(Data item 4)Tj
+1 0 0 1 155 470 Tm
+(Data value)Tj
+1 0 0 1 240 470 Tm
+(Data value)Tj
+1 0 0 1 28 470 Tm
+1 0 0 1 28 460 Tm
+(Data item 5)Tj
+1 0 0 1 155 460 Tm
+(Data value)Tj
+1 0 0 1 240 460 Tm
+(Data value)Tj
+1 0 0 1 28 460 Tm
+1 0 0 1 28 450 Tm
+(Data item 6)Tj
+1 0 0 1 155 450 Tm
+(Data value)Tj
+1 0 0 1 240 450 Tm
+(Data value)Tj
+1 0 0 1 28 450 Tm
+1 0 0 1 28 440 Tm
+(Data item 7)Tj
+1 0 0 1 155 440 Tm
+(Data value)Tj
+1 0 0 1 240 440 Tm
+(Data value)Tj
+1 0 0 1 28 440 Tm
+1 0 0 1 28 430 Tm
+(Data item 8)Tj
+1 0 0 1 155 430 Tm
+(Data value)Tj
+1 0 0 1 240 430 Tm
+(Data value)Tj
+1 0 0 1 28 430 Tm
+1 0 0 1 28 420 Tm
+(Data item 9)Tj
+1 0 0 1 155 420 Tm
+(Data value)Tj
+1 0 0 1 240 420 Tm
+(Data value)Tj
+1 0 0 1 28 420 Tm
+ET
+q
+2 w 28 537 m 284 537 l s 
+Q
+q
+2 w 28 416 m 284 416 l s 
+Q
+q
+2 w 28 537 m 28 416 l s 
+Q
+q
+2 w 284 537 m 284 416 l s 
+Q
+BT
+1 0 0 1 28 396 Tm
+(Table with a full border, header border, row border and column border)Tj
+ET
+q
+0.8 g 28 386 m 286 386 l 286 369 l 28 369 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 373 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 129 373 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 219 373 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 369 Tm
+ET
+q
+2 w 28 369 m 286 369 l s 
+Q
+BT
+1 0 0 1 28 357 Tm
+(Data item 0)Tj
+1 0 0 1 114 357 Tm
+(Data value)Tj
+1 0 0 1 242 357 Tm
+(Data value)Tj
+1 0 0 1 28 357 Tm
+ET
+q
+1 w 28 355 m 285 355 l s 
+Q
+BT
+1 0 0 1 28 344 Tm
+(Data item 1)Tj
+1 0 0 1 114 344 Tm
+(Data value)Tj
+1 0 0 1 242 344 Tm
+(Data value)Tj
+1 0 0 1 28 344 Tm
+ET
+q
+1 w 28 342 m 285 342 l s 
+Q
+BT
+1 0 0 1 28 331 Tm
+(Data item 2)Tj
+1 0 0 1 114 331 Tm
+(Data value)Tj
+1 0 0 1 242 331 Tm
+(Data value)Tj
+1 0 0 1 28 331 Tm
+ET
+q
+1 w 28 329 m 285 329 l s 
+Q
+BT
+1 0 0 1 28 318 Tm
+(Data item 3)Tj
+1 0 0 1 114 318 Tm
+(Data value)Tj
+1 0 0 1 242 318 Tm
+(Data value)Tj
+1 0 0 1 28 318 Tm
+ET
+q
+1 w 28 316 m 285 316 l s 
+Q
+BT
+1 0 0 1 28 305 Tm
+(Data item 4)Tj
+1 0 0 1 114 305 Tm
+(Data value)Tj
+1 0 0 1 242 305 Tm
+(Data value)Tj
+1 0 0 1 28 305 Tm
+ET
+q
+1 w 28 303 m 285 303 l s 
+Q
+BT
+1 0 0 1 28 292 Tm
+(Data item 5)Tj
+1 0 0 1 114 292 Tm
+(Data value)Tj
+1 0 0 1 242 292 Tm
+(Data value)Tj
+1 0 0 1 28 292 Tm
+ET
+q
+1 w 28 290 m 285 290 l s 
+Q
+BT
+1 0 0 1 28 279 Tm
+(Data item 6)Tj
+1 0 0 1 114 279 Tm
+(Data value)Tj
+1 0 0 1 242 279 Tm
+(Data value)Tj
+1 0 0 1 28 279 Tm
+ET
+q
+1 w 28 277 m 285 277 l s 
+Q
+BT
+1 0 0 1 28 266 Tm
+(Data item 7)Tj
+1 0 0 1 114 266 Tm
+(Data value)Tj
+1 0 0 1 242 266 Tm
+(Data value)Tj
+1 0 0 1 28 266 Tm
+ET
+q
+1 w 28 264 m 285 264 l s 
+Q
+BT
+1 0 0 1 28 253 Tm
+(Data item 8)Tj
+1 0 0 1 114 253 Tm
+(Data value)Tj
+1 0 0 1 242 253 Tm
+(Data value)Tj
+1 0 0 1 28 253 Tm
+ET
+q
+1 w 28 251 m 285 251 l s 
+Q
+BT
+1 0 0 1 28 240 Tm
+(Data item 9)Tj
+1 0 0 1 114 240 Tm
+(Data value)Tj
+1 0 0 1 242 240 Tm
+(Data value)Tj
+1 0 0 1 28 240 Tm
+ET
+q
+1 w 28 238 m 285 238 l s 
+Q
+BT
+1 0 0 1 28 227 Tm
+(Data item 10)Tj
+1 0 0 1 114 227 Tm
+(Data value)Tj
+1 0 0 1 242 227 Tm
+(Data value)Tj
+1 0 0 1 28 227 Tm
+ET
+q
+1 w 28 225 m 285 225 l s 
+Q
+BT
+1 0 0 1 28 214 Tm
+(Data item 11)Tj
+1 0 0 1 114 214 Tm
+(Data value)Tj
+1 0 0 1 242 214 Tm
+(Data value)Tj
+1 0 0 1 28 214 Tm
+ET
+q
+1 w 28 212 m 285 212 l s 
+Q
+BT
+1 0 0 1 28 201 Tm
+(Data item 12)Tj
+1 0 0 1 114 201 Tm
+(Data value)Tj
+1 0 0 1 242 201 Tm
+(Data value)Tj
+1 0 0 1 28 201 Tm
+ET
+q
+1 w 28 199 m 285 199 l s 
+Q
+BT
+1 0 0 1 28 188 Tm
+(Data item 13)Tj
+1 0 0 1 114 188 Tm
+(Data value)Tj
+1 0 0 1 242 188 Tm
+(Data value)Tj
+1 0 0 1 28 188 Tm
+ET
+q
+1 w 28 186 m 285 186 l s 
+Q
+BT
+1 0 0 1 28 175 Tm
+(Data item 14)Tj
+1 0 0 1 114 175 Tm
+(Data value)Tj
+1 0 0 1 242 175 Tm
+(Data value)Tj
+1 0 0 1 28 175 Tm
+ET
+q
+1 w 28 173 m 285 173 l s 
+Q
+BT
+1 0 0 1 28 162 Tm
+(Data item 15)Tj
+1 0 0 1 114 162 Tm
+(Data value)Tj
+1 0 0 1 242 162 Tm
+(Data value)Tj
+1 0 0 1 28 162 Tm
+ET
+q
+1 w 28 160 m 285 160 l s 
+Q
+BT
+1 0 0 1 28 149 Tm
+(Data item 16)Tj
+1 0 0 1 114 149 Tm
+(Data value)Tj
+1 0 0 1 242 149 Tm
+(Data value)Tj
+1 0 0 1 28 149 Tm
+ET
+q
+1 w 28 147 m 285 147 l s 
+Q
+BT
+1 0 0 1 28 136 Tm
+(Data item 17)Tj
+1 0 0 1 114 136 Tm
+(Data value)Tj
+1 0 0 1 242 136 Tm
+(Data value)Tj
+1 0 0 1 28 136 Tm
+ET
+q
+1 w 28 134 m 285 134 l s 
+Q
+BT
+1 0 0 1 28 123 Tm
+(Data item 18)Tj
+1 0 0 1 114 123 Tm
+(Data value)Tj
+1 0 0 1 242 123 Tm
+(Data value)Tj
+1 0 0 1 28 123 Tm
+ET
+q
+1 w 28 121 m 285 121 l s 
+Q
+BT
+1 0 0 1 28 110 Tm
+(Data item 19)Tj
+1 0 0 1 114 110 Tm
+(Data value)Tj
+1 0 0 1 242 110 Tm
+(Data value)Tj
+1 0 0 1 28 110 Tm
+ET
+q
+1 w 28 108 m 285 108 l s 
+Q
+BT
+1 0 0 1 28 97 Tm
+(Data item 20)Tj
+1 0 0 1 114 97 Tm
+(Data value)Tj
+1 0 0 1 242 97 Tm
+(Data value)Tj
+1 0 0 1 28 97 Tm
+ET
+q
+1 w 28 95 m 285 95 l s 
+Q
+BT
+1 0 0 1 28 84 Tm
+(Data item 21)Tj
+1 0 0 1 114 84 Tm
+(Data value)Tj
+1 0 0 1 242 84 Tm
+(Data value)Tj
+1 0 0 1 28 84 Tm
+ET
+q
+1 w 28 82 m 285 82 l s 
+Q
+BT
+1 0 0 1 28 71 Tm
+(Data item 22)Tj
+1 0 0 1 114 71 Tm
+(Data value)Tj
+1 0 0 1 242 71 Tm
+(Data value)Tj
+1 0 0 1 28 71 Tm
+ET
+q
+1 w 28 69 m 285 69 l s 
+Q
+BT
+1 0 0 1 28 58 Tm
+(Data item 23)Tj
+1 0 0 1 114 58 Tm
+(Data value)Tj
+1 0 0 1 242 58 Tm
+(Data value)Tj
+1 0 0 1 28 58 Tm
+ET
+q
+1 w 28 56 m 285 56 l s 
+Q
+BT
+1 0 0 1 28 45 Tm
+(Data item 24)Tj
+1 0 0 1 114 45 Tm
+(Data value)Tj
+1 0 0 1 242 45 Tm
+(Data value)Tj
+1 0 0 1 28 45 Tm
+ET
+q
+1 w 28 43 m 285 43 l s 
+Q
+q
+1 w 114 386 m 114 43 l s 
+Q
+q
+1 w 200 386 m 200 43 l s 
+Q
+q
+2 w 28 386 m 286 386 l s 
+Q
+q
+2 w 28 43 m 286 43 l s 
+Q
+q
+2 w 28 386 m 28 43 l s 
+Q
+q
+2 w 286 386 m 286 43 l s 
+Q
+BT
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 5)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+28 0 obj
+8249
+endobj
+25 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 26 0 R
+/Contents 27 0 R
+>>
+endobj
+26 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F2 9 0 R>>
+>>
+endobj
+31 0 obj
+<<
+/Length 32 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 6)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.8 g 28 745 m 286 745 l 286 728 l 28 728 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 732 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 129 732 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 219 732 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 728 Tm
+ET
+q
+2 w 28 728 m 286 728 l s 
+Q
+BT
+1 0 0 1 28 716 Tm
+(Data item 25)Tj
+1 0 0 1 114 716 Tm
+(Data value)Tj
+1 0 0 1 242 716 Tm
+(Data value)Tj
+1 0 0 1 28 716 Tm
+ET
+q
+1 w 28 714 m 285 714 l s 
+Q
+BT
+1 0 0 1 28 703 Tm
+(Data item 26)Tj
+1 0 0 1 114 703 Tm
+(Data value)Tj
+1 0 0 1 242 703 Tm
+(Data value)Tj
+1 0 0 1 28 703 Tm
+ET
+q
+1 w 28 701 m 285 701 l s 
+Q
+BT
+1 0 0 1 28 690 Tm
+(Data item 27)Tj
+1 0 0 1 114 690 Tm
+(Data value)Tj
+1 0 0 1 242 690 Tm
+(Data value)Tj
+1 0 0 1 28 690 Tm
+ET
+q
+1 w 28 688 m 285 688 l s 
+Q
+BT
+1 0 0 1 28 677 Tm
+(Data item 28)Tj
+1 0 0 1 114 677 Tm
+(Data value)Tj
+1 0 0 1 242 677 Tm
+(Data value)Tj
+1 0 0 1 28 677 Tm
+ET
+q
+1 w 28 675 m 285 675 l s 
+Q
+BT
+1 0 0 1 28 664 Tm
+(Data item 29)Tj
+1 0 0 1 114 664 Tm
+(Data value)Tj
+1 0 0 1 242 664 Tm
+(Data value)Tj
+1 0 0 1 28 664 Tm
+ET
+q
+1 w 28 662 m 285 662 l s 
+Q
+BT
+1 0 0 1 28 651 Tm
+(Data item 30)Tj
+1 0 0 1 114 651 Tm
+(Data value)Tj
+1 0 0 1 242 651 Tm
+(Data value)Tj
+1 0 0 1 28 651 Tm
+ET
+q
+1 w 28 649 m 285 649 l s 
+Q
+BT
+1 0 0 1 28 638 Tm
+(Data item 31)Tj
+1 0 0 1 114 638 Tm
+(Data value)Tj
+1 0 0 1 242 638 Tm
+(Data value)Tj
+1 0 0 1 28 638 Tm
+ET
+q
+1 w 28 636 m 285 636 l s 
+Q
+BT
+1 0 0 1 28 625 Tm
+(Data item 32)Tj
+1 0 0 1 114 625 Tm
+(Data value)Tj
+1 0 0 1 242 625 Tm
+(Data value)Tj
+1 0 0 1 28 625 Tm
+ET
+q
+1 w 28 623 m 285 623 l s 
+Q
+BT
+1 0 0 1 28 612 Tm
+(Data item 33)Tj
+1 0 0 1 114 612 Tm
+(Data value)Tj
+1 0 0 1 242 612 Tm
+(Data value)Tj
+1 0 0 1 28 612 Tm
+ET
+q
+1 w 28 610 m 285 610 l s 
+Q
+BT
+1 0 0 1 28 599 Tm
+(Data item 34)Tj
+1 0 0 1 114 599 Tm
+(Data value)Tj
+1 0 0 1 242 599 Tm
+(Data value)Tj
+1 0 0 1 28 599 Tm
+ET
+q
+1 w 28 597 m 285 597 l s 
+Q
+BT
+1 0 0 1 28 586 Tm
+(Data item 35)Tj
+1 0 0 1 114 586 Tm
+(Data value)Tj
+1 0 0 1 242 586 Tm
+(Data value)Tj
+1 0 0 1 28 586 Tm
+ET
+q
+1 w 28 584 m 285 584 l s 
+Q
+BT
+1 0 0 1 28 573 Tm
+(Data item 36)Tj
+1 0 0 1 114 573 Tm
+(Data value)Tj
+1 0 0 1 242 573 Tm
+(Data value)Tj
+1 0 0 1 28 573 Tm
+ET
+q
+1 w 28 571 m 285 571 l s 
+Q
+BT
+1 0 0 1 28 560 Tm
+(Data item 37)Tj
+1 0 0 1 114 560 Tm
+(Data value)Tj
+1 0 0 1 242 560 Tm
+(Data value)Tj
+1 0 0 1 28 560 Tm
+ET
+q
+1 w 28 558 m 285 558 l s 
+Q
+BT
+1 0 0 1 28 547 Tm
+(Data item 38)Tj
+1 0 0 1 114 547 Tm
+(Data value)Tj
+1 0 0 1 242 547 Tm
+(Data value)Tj
+1 0 0 1 28 547 Tm
+ET
+q
+1 w 28 545 m 285 545 l s 
+Q
+BT
+1 0 0 1 28 534 Tm
+(Data item 39)Tj
+1 0 0 1 114 534 Tm
+(Data value)Tj
+1 0 0 1 242 534 Tm
+(Data value)Tj
+1 0 0 1 28 534 Tm
+ET
+q
+1 w 28 532 m 285 532 l s 
+Q
+BT
+1 0 0 1 28 521 Tm
+(Data item 40)Tj
+1 0 0 1 114 521 Tm
+(Data value)Tj
+1 0 0 1 242 521 Tm
+(Data value)Tj
+1 0 0 1 28 521 Tm
+ET
+q
+1 w 28 519 m 285 519 l s 
+Q
+BT
+1 0 0 1 28 508 Tm
+(Data item 41)Tj
+1 0 0 1 114 508 Tm
+(Data value)Tj
+1 0 0 1 242 508 Tm
+(Data value)Tj
+1 0 0 1 28 508 Tm
+ET
+q
+1 w 28 506 m 285 506 l s 
+Q
+BT
+1 0 0 1 28 495 Tm
+(Data item 42)Tj
+1 0 0 1 114 495 Tm
+(Data value)Tj
+1 0 0 1 242 495 Tm
+(Data value)Tj
+1 0 0 1 28 495 Tm
+ET
+q
+1 w 28 493 m 285 493 l s 
+Q
+BT
+1 0 0 1 28 482 Tm
+(Data item 43)Tj
+1 0 0 1 114 482 Tm
+(Data value)Tj
+1 0 0 1 242 482 Tm
+(Data value)Tj
+1 0 0 1 28 482 Tm
+ET
+q
+1 w 28 480 m 285 480 l s 
+Q
+BT
+1 0 0 1 28 469 Tm
+(Data item 44)Tj
+1 0 0 1 114 469 Tm
+(Data value)Tj
+1 0 0 1 242 469 Tm
+(Data value)Tj
+1 0 0 1 28 469 Tm
+ET
+q
+1 w 28 467 m 285 467 l s 
+Q
+BT
+1 0 0 1 28 456 Tm
+(Data item 45)Tj
+1 0 0 1 114 456 Tm
+(Data value)Tj
+1 0 0 1 242 456 Tm
+(Data value)Tj
+1 0 0 1 28 456 Tm
+ET
+q
+1 w 28 454 m 285 454 l s 
+Q
+BT
+1 0 0 1 28 443 Tm
+(Data item 46)Tj
+1 0 0 1 114 443 Tm
+(Data value)Tj
+1 0 0 1 242 443 Tm
+(Data value)Tj
+1 0 0 1 28 443 Tm
+ET
+q
+1 w 28 441 m 285 441 l s 
+Q
+BT
+1 0 0 1 28 430 Tm
+(Data item 47)Tj
+1 0 0 1 114 430 Tm
+(Data value)Tj
+1 0 0 1 242 430 Tm
+(Data value)Tj
+1 0 0 1 28 430 Tm
+ET
+q
+1 w 28 428 m 285 428 l s 
+Q
+BT
+1 0 0 1 28 417 Tm
+(Data item 48)Tj
+1 0 0 1 114 417 Tm
+(Data value)Tj
+1 0 0 1 242 417 Tm
+(Data value)Tj
+1 0 0 1 28 417 Tm
+ET
+q
+1 w 28 415 m 285 415 l s 
+Q
+BT
+1 0 0 1 28 404 Tm
+(Data item 49)Tj
+1 0 0 1 114 404 Tm
+(Data value)Tj
+1 0 0 1 242 404 Tm
+(Data value)Tj
+1 0 0 1 28 404 Tm
+ET
+q
+1 w 28 402 m 285 402 l s 
+Q
+q
+1 w 114 745 m 114 402 l s 
+Q
+q
+1 w 200 745 m 200 402 l s 
+Q
+q
+2 w 28 745 m 286 745 l s 
+Q
+q
+2 w 28 402 m 286 402 l s 
+Q
+q
+2 w 28 745 m 28 402 l s 
+Q
+q
+2 w 286 745 m 286 402 l s 
+Q
+BT
+1 0 0 1 28 357 Tm
+(Table with a full border, header border, row border and column border, but no data)Tj
+1 0 0 1 28 337 Tm
+(Table with a full border and column border, but no data.  Writes out just the headings)Tj
+ET
+q
+0.8 g 28 327 m 286 327 l 286 310 l 28 310 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 45 314 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 129 314 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 219 314 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 310 Tm
+ET
+q
+1 w 114 327 m 114 310 l s 
+Q
+q
+1 w 200 327 m 200 310 l s 
+Q
+q
+1 w 28 327 m 286 327 l s 
+Q
+q
+1 w 28 310 m 286 310 l s 
+Q
+q
+1 w 28 327 m 28 310 l s 
+Q
+q
+1 w 286 327 m 286 310 l s 
+Q
+BT
+1 0 0 1 28 297 Tm
+(Table with a full border, header border  and column border.  Headings are spanned across multiple columns)Tj
+ET
+q
+0.8 g 28 287 m 318 287 l 318 270 l 28 270 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 60 274 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 142 274 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 269 274 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 270 Tm
+ET
+q
+2 w 28 270 m 318 270 l s 
+Q
+BT
+1 0 0 1 28 258 Tm
+(Data item 0)Tj
+1 0 0 1 85 258 Tm
+(Data value)Tj
+1 0 0 1 171 258 Tm
+(0)Tj
+1 0 0 1 229 258 Tm
+(1)Tj
+1 0 0 1 261 258 Tm
+(0)Tj
+1 0 0 1 309 258 Tm
+(-1)Tj
+1 0 0 1 28 258 Tm
+ET
+q
+1 w 28 256 m 317 256 l s 
+Q
+BT
+1 0 0 1 28 245 Tm
+(Data item 1)Tj
+1 0 0 1 85 245 Tm
+(Data value)Tj
+1 0 0 1 171 245 Tm
+(1)Tj
+1 0 0 1 229 245 Tm
+(2)Tj
+1 0 0 1 257 245 Tm
+(-1)Tj
+1 0 0 1 309 245 Tm
+(-2)Tj
+1 0 0 1 28 245 Tm
+ET
+q
+1 w 28 243 m 317 243 l s 
+Q
+BT
+1 0 0 1 28 232 Tm
+(Data item 2)Tj
+1 0 0 1 85 232 Tm
+(Data value)Tj
+1 0 0 1 171 232 Tm
+(2)Tj
+1 0 0 1 229 232 Tm
+(3)Tj
+1 0 0 1 257 232 Tm
+(-2)Tj
+1 0 0 1 309 232 Tm
+(-3)Tj
+1 0 0 1 28 232 Tm
+ET
+q
+1 w 28 230 m 317 230 l s 
+Q
+BT
+1 0 0 1 28 219 Tm
+(Data item 3)Tj
+1 0 0 1 85 219 Tm
+(Data value)Tj
+1 0 0 1 171 219 Tm
+(3)Tj
+1 0 0 1 229 219 Tm
+(4)Tj
+1 0 0 1 257 219 Tm
+(-3)Tj
+1 0 0 1 309 219 Tm
+(-4)Tj
+1 0 0 1 28 219 Tm
+ET
+q
+1 w 28 217 m 317 217 l s 
+Q
+BT
+1 0 0 1 28 206 Tm
+(Data item 4)Tj
+1 0 0 1 85 206 Tm
+(Data value)Tj
+1 0 0 1 171 206 Tm
+(4)Tj
+1 0 0 1 229 206 Tm
+(5)Tj
+1 0 0 1 257 206 Tm
+(-4)Tj
+1 0 0 1 309 206 Tm
+(-5)Tj
+1 0 0 1 28 206 Tm
+ET
+q
+1 w 28 204 m 317 204 l s 
+Q
+BT
+1 0 0 1 28 193 Tm
+(Data item 5)Tj
+1 0 0 1 85 193 Tm
+(Data value)Tj
+1 0 0 1 171 193 Tm
+(5)Tj
+1 0 0 1 229 193 Tm
+(6)Tj
+1 0 0 1 257 193 Tm
+(-5)Tj
+1 0 0 1 309 193 Tm
+(-6)Tj
+1 0 0 1 28 193 Tm
+ET
+q
+1 w 28 191 m 317 191 l s 
+Q
+BT
+1 0 0 1 28 180 Tm
+(Data item 6)Tj
+1 0 0 1 85 180 Tm
+(Data value)Tj
+1 0 0 1 171 180 Tm
+(6)Tj
+1 0 0 1 229 180 Tm
+(7)Tj
+1 0 0 1 257 180 Tm
+(-6)Tj
+1 0 0 1 309 180 Tm
+(-7)Tj
+1 0 0 1 28 180 Tm
+ET
+q
+1 w 28 178 m 317 178 l s 
+Q
+BT
+1 0 0 1 28 167 Tm
+(Data item 7)Tj
+1 0 0 1 85 167 Tm
+(Data value)Tj
+1 0 0 1 171 167 Tm
+(7)Tj
+1 0 0 1 229 167 Tm
+(8)Tj
+1 0 0 1 257 167 Tm
+(-7)Tj
+1 0 0 1 309 167 Tm
+(-8)Tj
+1 0 0 1 28 167 Tm
+ET
+q
+1 w 28 165 m 317 165 l s 
+Q
+BT
+1 0 0 1 28 154 Tm
+(Data item 8)Tj
+1 0 0 1 85 154 Tm
+(Data value)Tj
+1 0 0 1 171 154 Tm
+(8)Tj
+1 0 0 1 229 154 Tm
+(9)Tj
+1 0 0 1 257 154 Tm
+(-8)Tj
+1 0 0 1 309 154 Tm
+(-9)Tj
+1 0 0 1 28 154 Tm
+ET
+q
+1 w 28 152 m 317 152 l s 
+Q
+BT
+1 0 0 1 28 141 Tm
+(Data item 9)Tj
+1 0 0 1 85 141 Tm
+(Data value)Tj
+1 0 0 1 171 141 Tm
+(9)Tj
+1 0 0 1 224 141 Tm
+(10)Tj
+1 0 0 1 257 141 Tm
+(-9)Tj
+1 0 0 1 304 141 Tm
+(-10)Tj
+1 0 0 1 28 141 Tm
+ET
+q
+1 w 28 139 m 317 139 l s 
+Q
+BT
+1 0 0 1 28 128 Tm
+(Data item 10)Tj
+1 0 0 1 85 128 Tm
+(Data value)Tj
+1 0 0 1 166 128 Tm
+(10)Tj
+1 0 0 1 224 128 Tm
+(11)Tj
+1 0 0 1 252 128 Tm
+(-10)Tj
+1 0 0 1 304 128 Tm
+(-11)Tj
+1 0 0 1 28 128 Tm
+ET
+q
+1 w 28 126 m 317 126 l s 
+Q
+BT
+1 0 0 1 28 115 Tm
+(Data item 11)Tj
+1 0 0 1 85 115 Tm
+(Data value)Tj
+1 0 0 1 166 115 Tm
+(11)Tj
+1 0 0 1 224 115 Tm
+(12)Tj
+1 0 0 1 252 115 Tm
+(-11)Tj
+1 0 0 1 304 115 Tm
+(-12)Tj
+1 0 0 1 28 115 Tm
+ET
+q
+1 w 28 113 m 317 113 l s 
+Q
+BT
+1 0 0 1 28 102 Tm
+(Data item 12)Tj
+1 0 0 1 85 102 Tm
+(Data value)Tj
+1 0 0 1 166 102 Tm
+(12)Tj
+1 0 0 1 224 102 Tm
+(13)Tj
+1 0 0 1 252 102 Tm
+(-12)Tj
+1 0 0 1 304 102 Tm
+(-13)Tj
+1 0 0 1 28 102 Tm
+ET
+q
+1 w 28 100 m 317 100 l s 
+Q
+BT
+1 0 0 1 28 89 Tm
+(Data item 13)Tj
+1 0 0 1 85 89 Tm
+(Data value)Tj
+1 0 0 1 166 89 Tm
+(13)Tj
+1 0 0 1 224 89 Tm
+(14)Tj
+1 0 0 1 252 89 Tm
+(-13)Tj
+1 0 0 1 304 89 Tm
+(-14)Tj
+1 0 0 1 28 89 Tm
+ET
+q
+1 w 28 87 m 317 87 l s 
+Q
+BT
+1 0 0 1 28 76 Tm
+(Data item 14)Tj
+1 0 0 1 85 76 Tm
+(Data value)Tj
+1 0 0 1 166 76 Tm
+(14)Tj
+1 0 0 1 224 76 Tm
+(15)Tj
+1 0 0 1 252 76 Tm
+(-14)Tj
+1 0 0 1 304 76 Tm
+(-15)Tj
+1 0 0 1 28 76 Tm
+ET
+q
+1 w 28 74 m 317 74 l s 
+Q
+BT
+1 0 0 1 28 63 Tm
+(Data item 15)Tj
+1 0 0 1 85 63 Tm
+(Data value)Tj
+1 0 0 1 166 63 Tm
+(15)Tj
+1 0 0 1 224 63 Tm
+(16)Tj
+1 0 0 1 252 63 Tm
+(-15)Tj
+1 0 0 1 304 63 Tm
+(-16)Tj
+1 0 0 1 28 63 Tm
+ET
+q
+1 w 28 61 m 317 61 l s 
+Q
+BT
+1 0 0 1 28 50 Tm
+(Data item 16)Tj
+1 0 0 1 85 50 Tm
+(Data value)Tj
+1 0 0 1 166 50 Tm
+(16)Tj
+1 0 0 1 224 50 Tm
+(17)Tj
+1 0 0 1 252 50 Tm
+(-16)Tj
+1 0 0 1 304 50 Tm
+(-17)Tj
+1 0 0 1 28 50 Tm
+ET
+q
+1 w 28 48 m 317 48 l s 
+Q
+BT
+1 0 0 1 28 37 Tm
+(Data item 17)Tj
+1 0 0 1 85 37 Tm
+(Data value)Tj
+1 0 0 1 166 37 Tm
+(17)Tj
+1 0 0 1 224 37 Tm
+(18)Tj
+1 0 0 1 252 37 Tm
+(-17)Tj
+1 0 0 1 304 37 Tm
+(-18)Tj
+1 0 0 1 28 37 Tm
+ET
+q
+1 w 28 35 m 317 35 l s 
+Q
+q
+1 w 85 270 m 85 35 l s 
+Q
+q
+1 w 142 287 m 142 35 l s 
+Q
+q
+1 w 177 270 m 177 35 l s 
+Q
+q
+1 w 234 287 m 234 35 l s 
+Q
+q
+1 w 266 270 m 266 35 l s 
+Q
+q
+2 w 28 287 m 318 287 l s 
+Q
+q
+2 w 28 35 m 318 35 l s 
+Q
+q
+2 w 28 287 m 28 35 l s 
+Q
+q
+2 w 318 287 m 318 35 l s 
+Q
+BT
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 6)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+32 0 obj
+9985
+endobj
+29 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 30 0 R
+/Contents 31 0 R
+>>
+endobj
+30 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F2 9 0 R>>
+>>
+endobj
+35 0 obj
+<<
+/Length 36 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 7)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.8 g 28 745 m 318 745 l 318 728 l 28 728 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 60 732 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 142 732 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 269 732 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 728 Tm
+ET
+q
+2 w 28 728 m 318 728 l s 
+Q
+BT
+1 0 0 1 28 716 Tm
+(Data item 18)Tj
+1 0 0 1 85 716 Tm
+(Data value)Tj
+1 0 0 1 166 716 Tm
+(18)Tj
+1 0 0 1 224 716 Tm
+(19)Tj
+1 0 0 1 252 716 Tm
+(-18)Tj
+1 0 0 1 304 716 Tm
+(-19)Tj
+1 0 0 1 28 716 Tm
+ET
+q
+1 w 28 714 m 317 714 l s 
+Q
+BT
+1 0 0 1 28 703 Tm
+(Data item 19)Tj
+1 0 0 1 85 703 Tm
+(Data value)Tj
+1 0 0 1 166 703 Tm
+(19)Tj
+1 0 0 1 224 703 Tm
+(20)Tj
+1 0 0 1 252 703 Tm
+(-19)Tj
+1 0 0 1 304 703 Tm
+(-20)Tj
+1 0 0 1 28 703 Tm
+ET
+q
+1 w 28 701 m 317 701 l s 
+Q
+BT
+1 0 0 1 28 690 Tm
+(Data item 20)Tj
+1 0 0 1 85 690 Tm
+(Data value)Tj
+1 0 0 1 166 690 Tm
+(20)Tj
+1 0 0 1 224 690 Tm
+(21)Tj
+1 0 0 1 252 690 Tm
+(-20)Tj
+1 0 0 1 304 690 Tm
+(-21)Tj
+1 0 0 1 28 690 Tm
+ET
+q
+1 w 28 688 m 317 688 l s 
+Q
+BT
+1 0 0 1 28 677 Tm
+(Data item 21)Tj
+1 0 0 1 85 677 Tm
+(Data value)Tj
+1 0 0 1 166 677 Tm
+(21)Tj
+1 0 0 1 224 677 Tm
+(22)Tj
+1 0 0 1 252 677 Tm
+(-21)Tj
+1 0 0 1 304 677 Tm
+(-22)Tj
+1 0 0 1 28 677 Tm
+ET
+q
+1 w 28 675 m 317 675 l s 
+Q
+BT
+1 0 0 1 28 664 Tm
+(Data item 22)Tj
+1 0 0 1 85 664 Tm
+(Data value)Tj
+1 0 0 1 166 664 Tm
+(22)Tj
+1 0 0 1 224 664 Tm
+(23)Tj
+1 0 0 1 252 664 Tm
+(-22)Tj
+1 0 0 1 304 664 Tm
+(-23)Tj
+1 0 0 1 28 664 Tm
+ET
+q
+1 w 28 662 m 317 662 l s 
+Q
+BT
+1 0 0 1 28 651 Tm
+(Data item 23)Tj
+1 0 0 1 85 651 Tm
+(Data value)Tj
+1 0 0 1 166 651 Tm
+(23)Tj
+1 0 0 1 224 651 Tm
+(24)Tj
+1 0 0 1 252 651 Tm
+(-23)Tj
+1 0 0 1 304 651 Tm
+(-24)Tj
+1 0 0 1 28 651 Tm
+ET
+q
+1 w 28 649 m 317 649 l s 
+Q
+BT
+1 0 0 1 28 638 Tm
+(Data item 24)Tj
+1 0 0 1 85 638 Tm
+(Data value)Tj
+1 0 0 1 166 638 Tm
+(24)Tj
+1 0 0 1 224 638 Tm
+(25)Tj
+1 0 0 1 252 638 Tm
+(-24)Tj
+1 0 0 1 304 638 Tm
+(-25)Tj
+1 0 0 1 28 638 Tm
+ET
+q
+1 w 28 636 m 317 636 l s 
+Q
+BT
+1 0 0 1 28 625 Tm
+(Data item 25)Tj
+1 0 0 1 85 625 Tm
+(Data value)Tj
+1 0 0 1 166 625 Tm
+(25)Tj
+1 0 0 1 224 625 Tm
+(26)Tj
+1 0 0 1 252 625 Tm
+(-25)Tj
+1 0 0 1 304 625 Tm
+(-26)Tj
+1 0 0 1 28 625 Tm
+ET
+q
+1 w 28 623 m 317 623 l s 
+Q
+BT
+1 0 0 1 28 612 Tm
+(Data item 26)Tj
+1 0 0 1 85 612 Tm
+(Data value)Tj
+1 0 0 1 166 612 Tm
+(26)Tj
+1 0 0 1 224 612 Tm
+(27)Tj
+1 0 0 1 252 612 Tm
+(-26)Tj
+1 0 0 1 304 612 Tm
+(-27)Tj
+1 0 0 1 28 612 Tm
+ET
+q
+1 w 28 610 m 317 610 l s 
+Q
+BT
+1 0 0 1 28 599 Tm
+(Data item 27)Tj
+1 0 0 1 85 599 Tm
+(Data value)Tj
+1 0 0 1 166 599 Tm
+(27)Tj
+1 0 0 1 224 599 Tm
+(28)Tj
+1 0 0 1 252 599 Tm
+(-27)Tj
+1 0 0 1 304 599 Tm
+(-28)Tj
+1 0 0 1 28 599 Tm
+ET
+q
+1 w 28 597 m 317 597 l s 
+Q
+BT
+1 0 0 1 28 586 Tm
+(Data item 28)Tj
+1 0 0 1 85 586 Tm
+(Data value)Tj
+1 0 0 1 166 586 Tm
+(28)Tj
+1 0 0 1 224 586 Tm
+(29)Tj
+1 0 0 1 252 586 Tm
+(-28)Tj
+1 0 0 1 304 586 Tm
+(-29)Tj
+1 0 0 1 28 586 Tm
+ET
+q
+1 w 28 584 m 317 584 l s 
+Q
+BT
+1 0 0 1 28 573 Tm
+(Data item 29)Tj
+1 0 0 1 85 573 Tm
+(Data value)Tj
+1 0 0 1 166 573 Tm
+(29)Tj
+1 0 0 1 224 573 Tm
+(30)Tj
+1 0 0 1 252 573 Tm
+(-29)Tj
+1 0 0 1 304 573 Tm
+(-30)Tj
+1 0 0 1 28 573 Tm
+ET
+q
+1 w 28 571 m 317 571 l s 
+Q
+BT
+1 0 0 1 28 560 Tm
+(Data item 30)Tj
+1 0 0 1 85 560 Tm
+(Data value)Tj
+1 0 0 1 166 560 Tm
+(30)Tj
+1 0 0 1 224 560 Tm
+(31)Tj
+1 0 0 1 252 560 Tm
+(-30)Tj
+1 0 0 1 304 560 Tm
+(-31)Tj
+1 0 0 1 28 560 Tm
+ET
+q
+1 w 28 558 m 317 558 l s 
+Q
+BT
+1 0 0 1 28 547 Tm
+(Data item 31)Tj
+1 0 0 1 85 547 Tm
+(Data value)Tj
+1 0 0 1 166 547 Tm
+(31)Tj
+1 0 0 1 224 547 Tm
+(32)Tj
+1 0 0 1 252 547 Tm
+(-31)Tj
+1 0 0 1 304 547 Tm
+(-32)Tj
+1 0 0 1 28 547 Tm
+ET
+q
+1 w 28 545 m 317 545 l s 
+Q
+BT
+1 0 0 1 28 534 Tm
+(Data item 32)Tj
+1 0 0 1 85 534 Tm
+(Data value)Tj
+1 0 0 1 166 534 Tm
+(32)Tj
+1 0 0 1 224 534 Tm
+(33)Tj
+1 0 0 1 252 534 Tm
+(-32)Tj
+1 0 0 1 304 534 Tm
+(-33)Tj
+1 0 0 1 28 534 Tm
+ET
+q
+1 w 28 532 m 317 532 l s 
+Q
+BT
+1 0 0 1 28 521 Tm
+(Data item 33)Tj
+1 0 0 1 85 521 Tm
+(Data value)Tj
+1 0 0 1 166 521 Tm
+(33)Tj
+1 0 0 1 224 521 Tm
+(34)Tj
+1 0 0 1 252 521 Tm
+(-33)Tj
+1 0 0 1 304 521 Tm
+(-34)Tj
+1 0 0 1 28 521 Tm
+ET
+q
+1 w 28 519 m 317 519 l s 
+Q
+BT
+1 0 0 1 28 508 Tm
+(Data item 34)Tj
+1 0 0 1 85 508 Tm
+(Data value)Tj
+1 0 0 1 166 508 Tm
+(34)Tj
+1 0 0 1 224 508 Tm
+(35)Tj
+1 0 0 1 252 508 Tm
+(-34)Tj
+1 0 0 1 304 508 Tm
+(-35)Tj
+1 0 0 1 28 508 Tm
+ET
+q
+1 w 28 506 m 317 506 l s 
+Q
+BT
+1 0 0 1 28 495 Tm
+(Data item 35)Tj
+1 0 0 1 85 495 Tm
+(Data value)Tj
+1 0 0 1 166 495 Tm
+(35)Tj
+1 0 0 1 224 495 Tm
+(36)Tj
+1 0 0 1 252 495 Tm
+(-35)Tj
+1 0 0 1 304 495 Tm
+(-36)Tj
+1 0 0 1 28 495 Tm
+ET
+q
+1 w 28 493 m 317 493 l s 
+Q
+BT
+1 0 0 1 28 482 Tm
+(Data item 36)Tj
+1 0 0 1 85 482 Tm
+(Data value)Tj
+1 0 0 1 166 482 Tm
+(36)Tj
+1 0 0 1 224 482 Tm
+(37)Tj
+1 0 0 1 252 482 Tm
+(-36)Tj
+1 0 0 1 304 482 Tm
+(-37)Tj
+1 0 0 1 28 482 Tm
+ET
+q
+1 w 28 480 m 317 480 l s 
+Q
+BT
+1 0 0 1 28 469 Tm
+(Data item 37)Tj
+1 0 0 1 85 469 Tm
+(Data value)Tj
+1 0 0 1 166 469 Tm
+(37)Tj
+1 0 0 1 224 469 Tm
+(38)Tj
+1 0 0 1 252 469 Tm
+(-37)Tj
+1 0 0 1 304 469 Tm
+(-38)Tj
+1 0 0 1 28 469 Tm
+ET
+q
+1 w 28 467 m 317 467 l s 
+Q
+BT
+1 0 0 1 28 456 Tm
+(Data item 38)Tj
+1 0 0 1 85 456 Tm
+(Data value)Tj
+1 0 0 1 166 456 Tm
+(38)Tj
+1 0 0 1 224 456 Tm
+(39)Tj
+1 0 0 1 252 456 Tm
+(-38)Tj
+1 0 0 1 304 456 Tm
+(-39)Tj
+1 0 0 1 28 456 Tm
+ET
+q
+1 w 28 454 m 317 454 l s 
+Q
+BT
+1 0 0 1 28 443 Tm
+(Data item 39)Tj
+1 0 0 1 85 443 Tm
+(Data value)Tj
+1 0 0 1 166 443 Tm
+(39)Tj
+1 0 0 1 224 443 Tm
+(40)Tj
+1 0 0 1 252 443 Tm
+(-39)Tj
+1 0 0 1 304 443 Tm
+(-40)Tj
+1 0 0 1 28 443 Tm
+ET
+q
+1 w 28 441 m 317 441 l s 
+Q
+BT
+1 0 0 1 28 430 Tm
+(Data item 40)Tj
+1 0 0 1 85 430 Tm
+(Data value)Tj
+1 0 0 1 166 430 Tm
+(40)Tj
+1 0 0 1 224 430 Tm
+(41)Tj
+1 0 0 1 252 430 Tm
+(-40)Tj
+1 0 0 1 304 430 Tm
+(-41)Tj
+1 0 0 1 28 430 Tm
+ET
+q
+1 w 28 428 m 317 428 l s 
+Q
+BT
+1 0 0 1 28 417 Tm
+(Data item 41)Tj
+1 0 0 1 85 417 Tm
+(Data value)Tj
+1 0 0 1 166 417 Tm
+(41)Tj
+1 0 0 1 224 417 Tm
+(42)Tj
+1 0 0 1 252 417 Tm
+(-41)Tj
+1 0 0 1 304 417 Tm
+(-42)Tj
+1 0 0 1 28 417 Tm
+ET
+q
+1 w 28 415 m 317 415 l s 
+Q
+BT
+1 0 0 1 28 404 Tm
+(Data item 42)Tj
+1 0 0 1 85 404 Tm
+(Data value)Tj
+1 0 0 1 166 404 Tm
+(42)Tj
+1 0 0 1 224 404 Tm
+(43)Tj
+1 0 0 1 252 404 Tm
+(-42)Tj
+1 0 0 1 304 404 Tm
+(-43)Tj
+1 0 0 1 28 404 Tm
+ET
+q
+1 w 28 402 m 317 402 l s 
+Q
+BT
+1 0 0 1 28 391 Tm
+(Data item 43)Tj
+1 0 0 1 85 391 Tm
+(Data value)Tj
+1 0 0 1 166 391 Tm
+(43)Tj
+1 0 0 1 224 391 Tm
+(44)Tj
+1 0 0 1 252 391 Tm
+(-43)Tj
+1 0 0 1 304 391 Tm
+(-44)Tj
+1 0 0 1 28 391 Tm
+ET
+q
+1 w 28 389 m 317 389 l s 
+Q
+BT
+1 0 0 1 28 378 Tm
+(Data item 44)Tj
+1 0 0 1 85 378 Tm
+(Data value)Tj
+1 0 0 1 166 378 Tm
+(44)Tj
+1 0 0 1 224 378 Tm
+(45)Tj
+1 0 0 1 252 378 Tm
+(-44)Tj
+1 0 0 1 304 378 Tm
+(-45)Tj
+1 0 0 1 28 378 Tm
+ET
+q
+1 w 28 376 m 317 376 l s 
+Q
+BT
+1 0 0 1 28 365 Tm
+(Data item 45)Tj
+1 0 0 1 85 365 Tm
+(Data value)Tj
+1 0 0 1 166 365 Tm
+(45)Tj
+1 0 0 1 224 365 Tm
+(46)Tj
+1 0 0 1 252 365 Tm
+(-45)Tj
+1 0 0 1 304 365 Tm
+(-46)Tj
+1 0 0 1 28 365 Tm
+ET
+q
+1 w 28 363 m 317 363 l s 
+Q
+BT
+1 0 0 1 28 352 Tm
+(Data item 46)Tj
+1 0 0 1 85 352 Tm
+(Data value)Tj
+1 0 0 1 166 352 Tm
+(46)Tj
+1 0 0 1 224 352 Tm
+(47)Tj
+1 0 0 1 252 352 Tm
+(-46)Tj
+1 0 0 1 304 352 Tm
+(-47)Tj
+1 0 0 1 28 352 Tm
+ET
+q
+1 w 28 350 m 317 350 l s 
+Q
+BT
+1 0 0 1 28 339 Tm
+(Data item 47)Tj
+1 0 0 1 85 339 Tm
+(Data value)Tj
+1 0 0 1 166 339 Tm
+(47)Tj
+1 0 0 1 224 339 Tm
+(48)Tj
+1 0 0 1 252 339 Tm
+(-47)Tj
+1 0 0 1 304 339 Tm
+(-48)Tj
+1 0 0 1 28 339 Tm
+ET
+q
+1 w 28 337 m 317 337 l s 
+Q
+BT
+1 0 0 1 28 326 Tm
+(Data item 48)Tj
+1 0 0 1 85 326 Tm
+(Data value)Tj
+1 0 0 1 166 326 Tm
+(48)Tj
+1 0 0 1 224 326 Tm
+(49)Tj
+1 0 0 1 252 326 Tm
+(-48)Tj
+1 0 0 1 304 326 Tm
+(-49)Tj
+1 0 0 1 28 326 Tm
+ET
+q
+1 w 28 324 m 317 324 l s 
+Q
+BT
+1 0 0 1 28 313 Tm
+(Data item 49)Tj
+1 0 0 1 85 313 Tm
+(Data value)Tj
+1 0 0 1 166 313 Tm
+(49)Tj
+1 0 0 1 224 313 Tm
+(50)Tj
+1 0 0 1 252 313 Tm
+(-49)Tj
+1 0 0 1 304 313 Tm
+(-50)Tj
+1 0 0 1 28 313 Tm
+ET
+q
+1 w 28 311 m 317 311 l s 
+Q
+BT
+1 0 0 1 28 300 Tm
+(Data item 50)Tj
+1 0 0 1 85 300 Tm
+(Data value)Tj
+1 0 0 1 166 300 Tm
+(50)Tj
+1 0 0 1 224 300 Tm
+(51)Tj
+1 0 0 1 252 300 Tm
+(-50)Tj
+1 0 0 1 304 300 Tm
+(-51)Tj
+1 0 0 1 28 300 Tm
+ET
+q
+1 w 28 298 m 317 298 l s 
+Q
+BT
+1 0 0 1 28 287 Tm
+(Data item 51)Tj
+1 0 0 1 85 287 Tm
+(Data value)Tj
+1 0 0 1 166 287 Tm
+(51)Tj
+1 0 0 1 224 287 Tm
+(52)Tj
+1 0 0 1 252 287 Tm
+(-51)Tj
+1 0 0 1 304 287 Tm
+(-52)Tj
+1 0 0 1 28 287 Tm
+ET
+q
+1 w 28 285 m 317 285 l s 
+Q
+BT
+1 0 0 1 28 274 Tm
+(Data item 52)Tj
+1 0 0 1 85 274 Tm
+(Data value)Tj
+1 0 0 1 166 274 Tm
+(52)Tj
+1 0 0 1 224 274 Tm
+(53)Tj
+1 0 0 1 252 274 Tm
+(-52)Tj
+1 0 0 1 304 274 Tm
+(-53)Tj
+1 0 0 1 28 274 Tm
+ET
+q
+1 w 28 272 m 317 272 l s 
+Q
+BT
+1 0 0 1 28 261 Tm
+(Data item 53)Tj
+1 0 0 1 85 261 Tm
+(Data value)Tj
+1 0 0 1 166 261 Tm
+(53)Tj
+1 0 0 1 224 261 Tm
+(54)Tj
+1 0 0 1 252 261 Tm
+(-53)Tj
+1 0 0 1 304 261 Tm
+(-54)Tj
+1 0 0 1 28 261 Tm
+ET
+q
+1 w 28 259 m 317 259 l s 
+Q
+BT
+1 0 0 1 28 248 Tm
+(Data item 54)Tj
+1 0 0 1 85 248 Tm
+(Data value)Tj
+1 0 0 1 166 248 Tm
+(54)Tj
+1 0 0 1 224 248 Tm
+(55)Tj
+1 0 0 1 252 248 Tm
+(-54)Tj
+1 0 0 1 304 248 Tm
+(-55)Tj
+1 0 0 1 28 248 Tm
+ET
+q
+1 w 28 246 m 317 246 l s 
+Q
+BT
+1 0 0 1 28 235 Tm
+(Data item 55)Tj
+1 0 0 1 85 235 Tm
+(Data value)Tj
+1 0 0 1 166 235 Tm
+(55)Tj
+1 0 0 1 224 235 Tm
+(56)Tj
+1 0 0 1 252 235 Tm
+(-55)Tj
+1 0 0 1 304 235 Tm
+(-56)Tj
+1 0 0 1 28 235 Tm
+ET
+q
+1 w 28 233 m 317 233 l s 
+Q
+BT
+1 0 0 1 28 222 Tm
+(Data item 56)Tj
+1 0 0 1 85 222 Tm
+(Data value)Tj
+1 0 0 1 166 222 Tm
+(56)Tj
+1 0 0 1 224 222 Tm
+(57)Tj
+1 0 0 1 252 222 Tm
+(-56)Tj
+1 0 0 1 304 222 Tm
+(-57)Tj
+1 0 0 1 28 222 Tm
+ET
+q
+1 w 28 220 m 317 220 l s 
+Q
+BT
+1 0 0 1 28 209 Tm
+(Data item 57)Tj
+1 0 0 1 85 209 Tm
+(Data value)Tj
+1 0 0 1 166 209 Tm
+(57)Tj
+1 0 0 1 224 209 Tm
+(58)Tj
+1 0 0 1 252 209 Tm
+(-57)Tj
+1 0 0 1 304 209 Tm
+(-58)Tj
+1 0 0 1 28 209 Tm
+ET
+q
+1 w 28 207 m 317 207 l s 
+Q
+BT
+1 0 0 1 28 196 Tm
+(Data item 58)Tj
+1 0 0 1 85 196 Tm
+(Data value)Tj
+1 0 0 1 166 196 Tm
+(58)Tj
+1 0 0 1 224 196 Tm
+(59)Tj
+1 0 0 1 252 196 Tm
+(-58)Tj
+1 0 0 1 304 196 Tm
+(-59)Tj
+1 0 0 1 28 196 Tm
+ET
+q
+1 w 28 194 m 317 194 l s 
+Q
+BT
+1 0 0 1 28 183 Tm
+(Data item 59)Tj
+1 0 0 1 85 183 Tm
+(Data value)Tj
+1 0 0 1 166 183 Tm
+(59)Tj
+1 0 0 1 224 183 Tm
+(60)Tj
+1 0 0 1 252 183 Tm
+(-59)Tj
+1 0 0 1 304 183 Tm
+(-60)Tj
+1 0 0 1 28 183 Tm
+ET
+q
+1 w 28 181 m 317 181 l s 
+Q
+BT
+1 0 0 1 28 170 Tm
+(Data item 60)Tj
+1 0 0 1 85 170 Tm
+(Data value)Tj
+1 0 0 1 166 170 Tm
+(60)Tj
+1 0 0 1 224 170 Tm
+(61)Tj
+1 0 0 1 252 170 Tm
+(-60)Tj
+1 0 0 1 304 170 Tm
+(-61)Tj
+1 0 0 1 28 170 Tm
+ET
+q
+1 w 28 168 m 317 168 l s 
+Q
+BT
+1 0 0 1 28 157 Tm
+(Data item 61)Tj
+1 0 0 1 85 157 Tm
+(Data value)Tj
+1 0 0 1 166 157 Tm
+(61)Tj
+1 0 0 1 224 157 Tm
+(62)Tj
+1 0 0 1 252 157 Tm
+(-61)Tj
+1 0 0 1 304 157 Tm
+(-62)Tj
+1 0 0 1 28 157 Tm
+ET
+q
+1 w 28 155 m 317 155 l s 
+Q
+BT
+1 0 0 1 28 144 Tm
+(Data item 62)Tj
+1 0 0 1 85 144 Tm
+(Data value)Tj
+1 0 0 1 166 144 Tm
+(62)Tj
+1 0 0 1 224 144 Tm
+(63)Tj
+1 0 0 1 252 144 Tm
+(-62)Tj
+1 0 0 1 304 144 Tm
+(-63)Tj
+1 0 0 1 28 144 Tm
+ET
+q
+1 w 28 142 m 317 142 l s 
+Q
+BT
+1 0 0 1 28 131 Tm
+(Data item 63)Tj
+1 0 0 1 85 131 Tm
+(Data value)Tj
+1 0 0 1 166 131 Tm
+(63)Tj
+1 0 0 1 224 131 Tm
+(64)Tj
+1 0 0 1 252 131 Tm
+(-63)Tj
+1 0 0 1 304 131 Tm
+(-64)Tj
+1 0 0 1 28 131 Tm
+ET
+q
+1 w 28 129 m 317 129 l s 
+Q
+BT
+1 0 0 1 28 118 Tm
+(Data item 64)Tj
+1 0 0 1 85 118 Tm
+(Data value)Tj
+1 0 0 1 166 118 Tm
+(64)Tj
+1 0 0 1 224 118 Tm
+(65)Tj
+1 0 0 1 252 118 Tm
+(-64)Tj
+1 0 0 1 304 118 Tm
+(-65)Tj
+1 0 0 1 28 118 Tm
+ET
+q
+1 w 28 116 m 317 116 l s 
+Q
+BT
+1 0 0 1 28 105 Tm
+(Data item 65)Tj
+1 0 0 1 85 105 Tm
+(Data value)Tj
+1 0 0 1 166 105 Tm
+(65)Tj
+1 0 0 1 224 105 Tm
+(66)Tj
+1 0 0 1 252 105 Tm
+(-65)Tj
+1 0 0 1 304 105 Tm
+(-66)Tj
+1 0 0 1 28 105 Tm
+ET
+q
+1 w 28 103 m 317 103 l s 
+Q
+BT
+1 0 0 1 28 92 Tm
+(Data item 66)Tj
+1 0 0 1 85 92 Tm
+(Data value)Tj
+1 0 0 1 166 92 Tm
+(66)Tj
+1 0 0 1 224 92 Tm
+(67)Tj
+1 0 0 1 252 92 Tm
+(-66)Tj
+1 0 0 1 304 92 Tm
+(-67)Tj
+1 0 0 1 28 92 Tm
+ET
+q
+1 w 28 90 m 317 90 l s 
+Q
+BT
+1 0 0 1 28 79 Tm
+(Data item 67)Tj
+1 0 0 1 85 79 Tm
+(Data value)Tj
+1 0 0 1 166 79 Tm
+(67)Tj
+1 0 0 1 224 79 Tm
+(68)Tj
+1 0 0 1 252 79 Tm
+(-67)Tj
+1 0 0 1 304 79 Tm
+(-68)Tj
+1 0 0 1 28 79 Tm
+ET
+q
+1 w 28 77 m 317 77 l s 
+Q
+BT
+1 0 0 1 28 66 Tm
+(Data item 68)Tj
+1 0 0 1 85 66 Tm
+(Data value)Tj
+1 0 0 1 166 66 Tm
+(68)Tj
+1 0 0 1 224 66 Tm
+(69)Tj
+1 0 0 1 252 66 Tm
+(-68)Tj
+1 0 0 1 304 66 Tm
+(-69)Tj
+1 0 0 1 28 66 Tm
+ET
+q
+1 w 28 64 m 317 64 l s 
+Q
+BT
+1 0 0 1 28 53 Tm
+(Data item 69)Tj
+1 0 0 1 85 53 Tm
+(Data value)Tj
+1 0 0 1 166 53 Tm
+(69)Tj
+1 0 0 1 224 53 Tm
+(70)Tj
+1 0 0 1 252 53 Tm
+(-69)Tj
+1 0 0 1 304 53 Tm
+(-70)Tj
+1 0 0 1 28 53 Tm
+ET
+q
+1 w 28 51 m 317 51 l s 
+Q
+BT
+1 0 0 1 28 40 Tm
+(Data item 70)Tj
+1 0 0 1 85 40 Tm
+(Data value)Tj
+1 0 0 1 166 40 Tm
+(70)Tj
+1 0 0 1 224 40 Tm
+(71)Tj
+1 0 0 1 252 40 Tm
+(-70)Tj
+1 0 0 1 304 40 Tm
+(-71)Tj
+1 0 0 1 28 40 Tm
+ET
+q
+1 w 28 38 m 317 38 l s 
+Q
+q
+1 w 85 728 m 85 38 l s 
+Q
+q
+1 w 142 745 m 142 38 l s 
+Q
+q
+1 w 177 728 m 177 38 l s 
+Q
+q
+1 w 234 745 m 234 38 l s 
+Q
+q
+1 w 266 728 m 266 38 l s 
+Q
+q
+2 w 28 745 m 318 745 l s 
+Q
+q
+2 w 28 38 m 318 38 l s 
+Q
+q
+2 w 28 745 m 28 38 l s 
+Q
+q
+2 w 318 745 m 318 38 l s 
+Q
+BT
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 7)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+36 0 obj
+12879
+endobj
+33 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 34 0 R
+/Contents 35 0 R
+>>
+endobj
+34 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F2 9 0 R>>
+>>
+endobj
+39 0 obj
+<<
+/Length 40 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+(col1)Tj
+/F1 14 Tf
+1 0 0 1 190 750 Tm
+(orinoco Test Document)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 8)Tj
+1 0 0 1 28 750 Tm
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.8 g 28 745 m 318 745 l 318 728 l 28 728 l h f
+Q
+BT
+/F2 13 Tf
+1 0 0 1 60 732 Tm
+(Header 1)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 142 732 Tm
+(Heading 2)Tj
+/F0 10 Tf
+/F2 13 Tf
+1 0 0 1 269 732 Tm
+(Header3)Tj
+/F0 10 Tf
+1 0 0 1 28 728 Tm
+ET
+q
+2 w 28 728 m 318 728 l s 
+Q
+BT
+1 0 0 1 28 716 Tm
+(Data item 71)Tj
+1 0 0 1 85 716 Tm
+(Data value)Tj
+1 0 0 1 166 716 Tm
+(71)Tj
+1 0 0 1 224 716 Tm
+(72)Tj
+1 0 0 1 252 716 Tm
+(-71)Tj
+1 0 0 1 304 716 Tm
+(-72)Tj
+1 0 0 1 28 716 Tm
+ET
+q
+1 w 28 714 m 317 714 l s 
+Q
+BT
+1 0 0 1 28 703 Tm
+(Data item 72)Tj
+1 0 0 1 85 703 Tm
+(Data value)Tj
+1 0 0 1 166 703 Tm
+(72)Tj
+1 0 0 1 224 703 Tm
+(73)Tj
+1 0 0 1 252 703 Tm
+(-72)Tj
+1 0 0 1 304 703 Tm
+(-73)Tj
+1 0 0 1 28 703 Tm
+ET
+q
+1 w 28 701 m 317 701 l s 
+Q
+BT
+1 0 0 1 28 690 Tm
+(Data item 73)Tj
+1 0 0 1 85 690 Tm
+(Data value)Tj
+1 0 0 1 166 690 Tm
+(73)Tj
+1 0 0 1 224 690 Tm
+(74)Tj
+1 0 0 1 252 690 Tm
+(-73)Tj
+1 0 0 1 304 690 Tm
+(-74)Tj
+1 0 0 1 28 690 Tm
+ET
+q
+1 w 28 688 m 317 688 l s 
+Q
+BT
+1 0 0 1 28 677 Tm
+(Data item 74)Tj
+1 0 0 1 85 677 Tm
+(Data value)Tj
+1 0 0 1 166 677 Tm
+(74)Tj
+1 0 0 1 224 677 Tm
+(75)Tj
+1 0 0 1 252 677 Tm
+(-74)Tj
+1 0 0 1 304 677 Tm
+(-75)Tj
+1 0 0 1 28 677 Tm
+ET
+q
+1 w 28 675 m 317 675 l s 
+Q
+BT
+1 0 0 1 28 664 Tm
+(Data item 75)Tj
+1 0 0 1 85 664 Tm
+(Data value)Tj
+1 0 0 1 166 664 Tm
+(75)Tj
+1 0 0 1 224 664 Tm
+(76)Tj
+1 0 0 1 252 664 Tm
+(-75)Tj
+1 0 0 1 304 664 Tm
+(-76)Tj
+1 0 0 1 28 664 Tm
+ET
+q
+1 w 28 662 m 317 662 l s 
+Q
+BT
+1 0 0 1 28 651 Tm
+(Data item 76)Tj
+1 0 0 1 85 651 Tm
+(Data value)Tj
+1 0 0 1 166 651 Tm
+(76)Tj
+1 0 0 1 224 651 Tm
+(77)Tj
+1 0 0 1 252 651 Tm
+(-76)Tj
+1 0 0 1 304 651 Tm
+(-77)Tj
+1 0 0 1 28 651 Tm
+ET
+q
+1 w 28 649 m 317 649 l s 
+Q
+BT
+1 0 0 1 28 638 Tm
+(Data item 77)Tj
+1 0 0 1 85 638 Tm
+(Data value)Tj
+1 0 0 1 166 638 Tm
+(77)Tj
+1 0 0 1 224 638 Tm
+(78)Tj
+1 0 0 1 252 638 Tm
+(-77)Tj
+1 0 0 1 304 638 Tm
+(-78)Tj
+1 0 0 1 28 638 Tm
+ET
+q
+1 w 28 636 m 317 636 l s 
+Q
+BT
+1 0 0 1 28 625 Tm
+(Data item 78)Tj
+1 0 0 1 85 625 Tm
+(Data value)Tj
+1 0 0 1 166 625 Tm
+(78)Tj
+1 0 0 1 224 625 Tm
+(79)Tj
+1 0 0 1 252 625 Tm
+(-78)Tj
+1 0 0 1 304 625 Tm
+(-79)Tj
+1 0 0 1 28 625 Tm
+ET
+q
+1 w 28 623 m 317 623 l s 
+Q
+BT
+1 0 0 1 28 612 Tm
+(Data item 79)Tj
+1 0 0 1 85 612 Tm
+(Data value)Tj
+1 0 0 1 166 612 Tm
+(79)Tj
+1 0 0 1 224 612 Tm
+(80)Tj
+1 0 0 1 252 612 Tm
+(-79)Tj
+1 0 0 1 304 612 Tm
+(-80)Tj
+1 0 0 1 28 612 Tm
+ET
+q
+1 w 28 610 m 317 610 l s 
+Q
+BT
+1 0 0 1 28 599 Tm
+(Data item 80)Tj
+1 0 0 1 85 599 Tm
+(Data value)Tj
+1 0 0 1 166 599 Tm
+(80)Tj
+1 0 0 1 224 599 Tm
+(81)Tj
+1 0 0 1 252 599 Tm
+(-80)Tj
+1 0 0 1 304 599 Tm
+(-81)Tj
+1 0 0 1 28 599 Tm
+ET
+q
+1 w 28 597 m 317 597 l s 
+Q
+BT
+1 0 0 1 28 586 Tm
+(Data item 81)Tj
+1 0 0 1 85 586 Tm
+(Data value)Tj
+1 0 0 1 166 586 Tm
+(81)Tj
+1 0 0 1 224 586 Tm
+(82)Tj
+1 0 0 1 252 586 Tm
+(-81)Tj
+1 0 0 1 304 586 Tm
+(-82)Tj
+1 0 0 1 28 586 Tm
+ET
+q
+1 w 28 584 m 317 584 l s 
+Q
+BT
+1 0 0 1 28 573 Tm
+(Data item 82)Tj
+1 0 0 1 85 573 Tm
+(Data value)Tj
+1 0 0 1 166 573 Tm
+(82)Tj
+1 0 0 1 224 573 Tm
+(83)Tj
+1 0 0 1 252 573 Tm
+(-82)Tj
+1 0 0 1 304 573 Tm
+(-83)Tj
+1 0 0 1 28 573 Tm
+ET
+q
+1 w 28 571 m 317 571 l s 
+Q
+BT
+1 0 0 1 28 560 Tm
+(Data item 83)Tj
+1 0 0 1 85 560 Tm
+(Data value)Tj
+1 0 0 1 166 560 Tm
+(83)Tj
+1 0 0 1 224 560 Tm
+(84)Tj
+1 0 0 1 252 560 Tm
+(-83)Tj
+1 0 0 1 304 560 Tm
+(-84)Tj
+1 0 0 1 28 560 Tm
+ET
+q
+1 w 28 558 m 317 558 l s 
+Q
+BT
+1 0 0 1 28 547 Tm
+(Data item 84)Tj
+1 0 0 1 85 547 Tm
+(Data value)Tj
+1 0 0 1 166 547 Tm
+(84)Tj
+1 0 0 1 224 547 Tm
+(85)Tj
+1 0 0 1 252 547 Tm
+(-84)Tj
+1 0 0 1 304 547 Tm
+(-85)Tj
+1 0 0 1 28 547 Tm
+ET
+q
+1 w 28 545 m 317 545 l s 
+Q
+BT
+1 0 0 1 28 534 Tm
+(Data item 85)Tj
+1 0 0 1 85 534 Tm
+(Data value)Tj
+1 0 0 1 166 534 Tm
+(85)Tj
+1 0 0 1 224 534 Tm
+(86)Tj
+1 0 0 1 252 534 Tm
+(-85)Tj
+1 0 0 1 304 534 Tm
+(-86)Tj
+1 0 0 1 28 534 Tm
+ET
+q
+1 w 28 532 m 317 532 l s 
+Q
+BT
+1 0 0 1 28 521 Tm
+(Data item 86)Tj
+1 0 0 1 85 521 Tm
+(Data value)Tj
+1 0 0 1 166 521 Tm
+(86)Tj
+1 0 0 1 224 521 Tm
+(87)Tj
+1 0 0 1 252 521 Tm
+(-86)Tj
+1 0 0 1 304 521 Tm
+(-87)Tj
+1 0 0 1 28 521 Tm
+ET
+q
+1 w 28 519 m 317 519 l s 
+Q
+BT
+1 0 0 1 28 508 Tm
+(Data item 87)Tj
+1 0 0 1 85 508 Tm
+(Data value)Tj
+1 0 0 1 166 508 Tm
+(87)Tj
+1 0 0 1 224 508 Tm
+(88)Tj
+1 0 0 1 252 508 Tm
+(-87)Tj
+1 0 0 1 304 508 Tm
+(-88)Tj
+1 0 0 1 28 508 Tm
+ET
+q
+1 w 28 506 m 317 506 l s 
+Q
+BT
+1 0 0 1 28 495 Tm
+(Data item 88)Tj
+1 0 0 1 85 495 Tm
+(Data value)Tj
+1 0 0 1 166 495 Tm
+(88)Tj
+1 0 0 1 224 495 Tm
+(89)Tj
+1 0 0 1 252 495 Tm
+(-88)Tj
+1 0 0 1 304 495 Tm
+(-89)Tj
+1 0 0 1 28 495 Tm
+ET
+q
+1 w 28 493 m 317 493 l s 
+Q
+BT
+1 0 0 1 28 482 Tm
+(Data item 89)Tj
+1 0 0 1 85 482 Tm
+(Data value)Tj
+1 0 0 1 166 482 Tm
+(89)Tj
+1 0 0 1 224 482 Tm
+(90)Tj
+1 0 0 1 252 482 Tm
+(-89)Tj
+1 0 0 1 304 482 Tm
+(-90)Tj
+1 0 0 1 28 482 Tm
+ET
+q
+1 w 28 480 m 317 480 l s 
+Q
+BT
+1 0 0 1 28 469 Tm
+(Data item 90)Tj
+1 0 0 1 85 469 Tm
+(Data value)Tj
+1 0 0 1 166 469 Tm
+(90)Tj
+1 0 0 1 224 469 Tm
+(91)Tj
+1 0 0 1 252 469 Tm
+(-90)Tj
+1 0 0 1 304 469 Tm
+(-91)Tj
+1 0 0 1 28 469 Tm
+ET
+q
+1 w 28 467 m 317 467 l s 
+Q
+BT
+1 0 0 1 28 456 Tm
+(Data item 91)Tj
+1 0 0 1 85 456 Tm
+(Data value)Tj
+1 0 0 1 166 456 Tm
+(91)Tj
+1 0 0 1 224 456 Tm
+(92)Tj
+1 0 0 1 252 456 Tm
+(-91)Tj
+1 0 0 1 304 456 Tm
+(-92)Tj
+1 0 0 1 28 456 Tm
+ET
+q
+1 w 28 454 m 317 454 l s 
+Q
+BT
+1 0 0 1 28 443 Tm
+(Data item 92)Tj
+1 0 0 1 85 443 Tm
+(Data value)Tj
+1 0 0 1 166 443 Tm
+(92)Tj
+1 0 0 1 224 443 Tm
+(93)Tj
+1 0 0 1 252 443 Tm
+(-92)Tj
+1 0 0 1 304 443 Tm
+(-93)Tj
+1 0 0 1 28 443 Tm
+ET
+q
+1 w 28 441 m 317 441 l s 
+Q
+BT
+1 0 0 1 28 430 Tm
+(Data item 93)Tj
+1 0 0 1 85 430 Tm
+(Data value)Tj
+1 0 0 1 166 430 Tm
+(93)Tj
+1 0 0 1 224 430 Tm
+(94)Tj
+1 0 0 1 252 430 Tm
+(-93)Tj
+1 0 0 1 304 430 Tm
+(-94)Tj
+1 0 0 1 28 430 Tm
+ET
+q
+1 w 28 428 m 317 428 l s 
+Q
+BT
+1 0 0 1 28 417 Tm
+(Data item 94)Tj
+1 0 0 1 85 417 Tm
+(Data value)Tj
+1 0 0 1 166 417 Tm
+(94)Tj
+1 0 0 1 224 417 Tm
+(95)Tj
+1 0 0 1 252 417 Tm
+(-94)Tj
+1 0 0 1 304 417 Tm
+(-95)Tj
+1 0 0 1 28 417 Tm
+ET
+q
+1 w 28 415 m 317 415 l s 
+Q
+BT
+1 0 0 1 28 404 Tm
+(Data item 95)Tj
+1 0 0 1 85 404 Tm
+(Data value)Tj
+1 0 0 1 166 404 Tm
+(95)Tj
+1 0 0 1 224 404 Tm
+(96)Tj
+1 0 0 1 252 404 Tm
+(-95)Tj
+1 0 0 1 304 404 Tm
+(-96)Tj
+1 0 0 1 28 404 Tm
+ET
+q
+1 w 28 402 m 317 402 l s 
+Q
+BT
+1 0 0 1 28 391 Tm
+(Data item 96)Tj
+1 0 0 1 85 391 Tm
+(Data value)Tj
+1 0 0 1 166 391 Tm
+(96)Tj
+1 0 0 1 224 391 Tm
+(97)Tj
+1 0 0 1 252 391 Tm
+(-96)Tj
+1 0 0 1 304 391 Tm
+(-97)Tj
+1 0 0 1 28 391 Tm
+ET
+q
+1 w 28 389 m 317 389 l s 
+Q
+BT
+1 0 0 1 28 378 Tm
+(Data item 97)Tj
+1 0 0 1 85 378 Tm
+(Data value)Tj
+1 0 0 1 166 378 Tm
+(97)Tj
+1 0 0 1 224 378 Tm
+(98)Tj
+1 0 0 1 252 378 Tm
+(-97)Tj
+1 0 0 1 304 378 Tm
+(-98)Tj
+1 0 0 1 28 378 Tm
+ET
+q
+1 w 28 376 m 317 376 l s 
+Q
+BT
+1 0 0 1 28 365 Tm
+(Data item 98)Tj
+1 0 0 1 85 365 Tm
+(Data value)Tj
+1 0 0 1 166 365 Tm
+(98)Tj
+1 0 0 1 224 365 Tm
+(99)Tj
+1 0 0 1 252 365 Tm
+(-98)Tj
+1 0 0 1 304 365 Tm
+(-99)Tj
+1 0 0 1 28 365 Tm
+ET
+q
+1 w 28 363 m 317 363 l s 
+Q
+BT
+1 0 0 1 28 352 Tm
+(Data item 99)Tj
+1 0 0 1 85 352 Tm
+(Data value)Tj
+1 0 0 1 166 352 Tm
+(99)Tj
+1 0 0 1 219 352 Tm
+(100)Tj
+1 0 0 1 252 352 Tm
+(-99)Tj
+1 0 0 1 299 352 Tm
+(-100)Tj
+1 0 0 1 28 352 Tm
+ET
+q
+1 w 28 350 m 317 350 l s 
+Q
+q
+1 w 85 728 m 85 350 l s 
+Q
+q
+1 w 142 745 m 142 350 l s 
+Q
+q
+1 w 177 728 m 177 350 l s 
+Q
+q
+1 w 234 745 m 234 350 l s 
+Q
+q
+1 w 266 728 m 266 350 l s 
+Q
+q
+2 w 28 745 m 318 745 l s 
+Q
+q
+2 w 28 350 m 318 350 l s 
+Q
+q
+2 w 28 745 m 28 350 l s 
+Q
+q
+2 w 318 745 m 318 350 l s 
+Q
+BT
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+ET
+q
+1 w 28 29 m 584 29 l s 
+Q
+BT
+/F0 8 Tf
+1 0 0 1 563 18 Tm
+(page 8)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+40 0 obj
+7463
+endobj
+37 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 38 0 R
+/Contents 39 0 R
+>>
+endobj
+38 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F2 9 0 R>>
+>>
+endobj
+43 0 obj
+<<
+/Length 44 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+()Tj
+/F1 14 Tf
+1 0 0 1 206 750 Tm
+(Special Characters)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 9)Tj
+1 0 0 1 28 750 Tm
+ET
+q
+1 w 28 743 m 584 743 l s 
+Q
+BT
+/F0 10 Tf
+/F0 10 Tf
+1 0 0 1 28 727 Tm
+(The following are special characters supported by orinoco and conform to the first 256 characters of the unicode character set.)Tj
+1 0 0 1 28 717 Tm
+(They may be embedded into a PDF document by embedding the indicated octal character code into the java string)Tj
+ET
+q
+0.9019607843137255 0.9019607843137255 0.9019607843137255 rg 28 707 m 168 707 l 168 691 l 28 691 l h f
+Q
+q
+1 w 28 707 m 168 707 l s 
+Q
+BT
+/F1 12 Tf
+1 0 0 1 33 695 Tm
+(Octal code)Tj
+/F0 10 Tf
+/F1 12 Tf
+1 0 0 1 106 695 Tm
+(Character)Tj
+/F0 10 Tf
+1 0 0 1 28 691 Tm
+ET
+q
+1 w 28 691 m 168 691 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 680 Tm
+(\\200)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 680 Tm
+(\200)Tj
+/F0 10 Tf
+1 0 0 1 28 680 Tm
+ET
+q
+1 w 28 678 m 168 678 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 667 Tm
+(\\201)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 667 Tm
+(\201)Tj
+/F0 10 Tf
+1 0 0 1 28 667 Tm
+ET
+q
+1 w 28 665 m 168 665 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 654 Tm
+(\\202)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 654 Tm
+(\202)Tj
+/F0 10 Tf
+1 0 0 1 28 654 Tm
+ET
+q
+1 w 28 652 m 168 652 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 641 Tm
+(\\203)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 641 Tm
+(\203)Tj
+/F0 10 Tf
+1 0 0 1 28 641 Tm
+ET
+q
+1 w 28 639 m 168 639 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 628 Tm
+(\\204)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 628 Tm
+(\204)Tj
+/F0 10 Tf
+1 0 0 1 28 628 Tm
+ET
+q
+1 w 28 626 m 168 626 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 615 Tm
+(\\205)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 615 Tm
+(\205)Tj
+/F0 10 Tf
+1 0 0 1 28 615 Tm
+ET
+q
+1 w 28 613 m 168 613 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 602 Tm
+(\\206)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 602 Tm
+(\206)Tj
+/F0 10 Tf
+1 0 0 1 28 602 Tm
+ET
+q
+1 w 28 600 m 168 600 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 589 Tm
+(\\207)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 589 Tm
+(\207)Tj
+/F0 10 Tf
+1 0 0 1 28 589 Tm
+ET
+q
+1 w 28 587 m 168 587 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 576 Tm
+(\\210)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 576 Tm
+(\210)Tj
+/F0 10 Tf
+1 0 0 1 28 576 Tm
+ET
+q
+1 w 28 574 m 168 574 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 563 Tm
+(\\211)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 563 Tm
+(\211)Tj
+/F0 10 Tf
+1 0 0 1 28 563 Tm
+ET
+q
+1 w 28 561 m 168 561 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 550 Tm
+(\\212)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 550 Tm
+(\212)Tj
+/F0 10 Tf
+1 0 0 1 28 550 Tm
+ET
+q
+1 w 28 548 m 168 548 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 537 Tm
+(\\213)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 537 Tm
+(\213)Tj
+/F0 10 Tf
+1 0 0 1 28 537 Tm
+ET
+q
+1 w 28 535 m 168 535 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 524 Tm
+(\\214)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 524 Tm
+(\214)Tj
+/F0 10 Tf
+1 0 0 1 28 524 Tm
+ET
+q
+1 w 28 522 m 168 522 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 511 Tm
+(\\215)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 511 Tm
+(\215)Tj
+/F0 10 Tf
+1 0 0 1 28 511 Tm
+ET
+q
+1 w 28 509 m 168 509 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 498 Tm
+(\\216)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 498 Tm
+(\216)Tj
+/F0 10 Tf
+1 0 0 1 28 498 Tm
+ET
+q
+1 w 28 496 m 168 496 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 485 Tm
+(\\217)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 485 Tm
+(\217)Tj
+/F0 10 Tf
+1 0 0 1 28 485 Tm
+ET
+q
+1 w 28 483 m 168 483 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 472 Tm
+(\\220)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 472 Tm
+(\220)Tj
+/F0 10 Tf
+1 0 0 1 28 472 Tm
+ET
+q
+1 w 28 470 m 168 470 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 459 Tm
+(\\221)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 459 Tm
+(\221)Tj
+/F0 10 Tf
+1 0 0 1 28 459 Tm
+ET
+q
+1 w 28 457 m 168 457 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 446 Tm
+(\\222)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 446 Tm
+(\222)Tj
+/F0 10 Tf
+1 0 0 1 28 446 Tm
+ET
+q
+1 w 28 444 m 168 444 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 433 Tm
+(\\223)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 433 Tm
+(\223)Tj
+/F0 10 Tf
+1 0 0 1 28 433 Tm
+ET
+q
+1 w 28 431 m 168 431 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 420 Tm
+(\\224)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 420 Tm
+(\224)Tj
+/F0 10 Tf
+1 0 0 1 28 420 Tm
+ET
+q
+1 w 28 418 m 168 418 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 407 Tm
+(\\225)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 407 Tm
+(\225)Tj
+/F0 10 Tf
+1 0 0 1 28 407 Tm
+ET
+q
+1 w 28 405 m 168 405 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 394 Tm
+(\\226)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 394 Tm
+(\226)Tj
+/F0 10 Tf
+1 0 0 1 28 394 Tm
+ET
+q
+1 w 28 392 m 168 392 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 381 Tm
+(\\227)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 381 Tm
+(\227)Tj
+/F0 10 Tf
+1 0 0 1 28 381 Tm
+ET
+q
+1 w 28 379 m 168 379 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 368 Tm
+(\\230)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 368 Tm
+(\230)Tj
+/F0 10 Tf
+1 0 0 1 28 368 Tm
+ET
+q
+1 w 28 366 m 168 366 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 355 Tm
+(\\231)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 355 Tm
+(\231)Tj
+/F0 10 Tf
+1 0 0 1 28 355 Tm
+ET
+q
+1 w 28 353 m 168 353 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 342 Tm
+(\\232)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 342 Tm
+(\232)Tj
+/F0 10 Tf
+1 0 0 1 28 342 Tm
+ET
+q
+1 w 28 340 m 168 340 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 329 Tm
+(\\233)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 329 Tm
+(\233)Tj
+/F0 10 Tf
+1 0 0 1 28 329 Tm
+ET
+q
+1 w 28 327 m 168 327 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 316 Tm
+(\\234)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 316 Tm
+(\234)Tj
+/F0 10 Tf
+1 0 0 1 28 316 Tm
+ET
+q
+1 w 28 314 m 168 314 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 303 Tm
+(\\235)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 303 Tm
+(\235)Tj
+/F0 10 Tf
+1 0 0 1 28 303 Tm
+ET
+q
+1 w 28 301 m 168 301 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 290 Tm
+(\\236)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 290 Tm
+(\236)Tj
+/F0 10 Tf
+1 0 0 1 28 290 Tm
+ET
+q
+1 w 28 288 m 168 288 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 277 Tm
+(\\237)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 277 Tm
+(\237)Tj
+/F0 10 Tf
+1 0 0 1 28 277 Tm
+ET
+q
+1 w 28 275 m 168 275 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 264 Tm
+(\\240)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 264 Tm
+(\240)Tj
+/F0 10 Tf
+1 0 0 1 28 264 Tm
+ET
+q
+1 w 28 262 m 168 262 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 251 Tm
+(\\241)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 251 Tm
+(\241)Tj
+/F0 10 Tf
+1 0 0 1 28 251 Tm
+ET
+q
+1 w 28 249 m 168 249 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 238 Tm
+(\\242)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 238 Tm
+(\242)Tj
+/F0 10 Tf
+1 0 0 1 28 238 Tm
+ET
+q
+1 w 28 236 m 168 236 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 225 Tm
+(\\243)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 225 Tm
+(\243)Tj
+/F0 10 Tf
+1 0 0 1 28 225 Tm
+ET
+q
+1 w 28 223 m 168 223 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 212 Tm
+(\\244)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 212 Tm
+(\244)Tj
+/F0 10 Tf
+1 0 0 1 28 212 Tm
+ET
+q
+1 w 28 210 m 168 210 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 199 Tm
+(\\245)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 199 Tm
+(\245)Tj
+/F0 10 Tf
+1 0 0 1 28 199 Tm
+ET
+q
+1 w 28 197 m 168 197 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 186 Tm
+(\\246)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 186 Tm
+(\246)Tj
+/F0 10 Tf
+1 0 0 1 28 186 Tm
+ET
+q
+1 w 28 184 m 168 184 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 173 Tm
+(\\247)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 173 Tm
+(\247)Tj
+/F0 10 Tf
+1 0 0 1 28 173 Tm
+ET
+q
+1 w 28 171 m 168 171 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 160 Tm
+(\\250)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 160 Tm
+(\250)Tj
+/F0 10 Tf
+1 0 0 1 28 160 Tm
+ET
+q
+1 w 28 158 m 168 158 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 147 Tm
+(\\251)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 147 Tm
+(\251)Tj
+/F0 10 Tf
+1 0 0 1 28 147 Tm
+ET
+q
+1 w 28 145 m 168 145 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 134 Tm
+(\\252)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 134 Tm
+(\252)Tj
+/F0 10 Tf
+1 0 0 1 28 134 Tm
+ET
+q
+1 w 28 132 m 168 132 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 121 Tm
+(\\253)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 121 Tm
+(\253)Tj
+/F0 10 Tf
+1 0 0 1 28 121 Tm
+ET
+q
+1 w 28 119 m 168 119 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 108 Tm
+(\\254)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 108 Tm
+(\254)Tj
+/F0 10 Tf
+1 0 0 1 28 108 Tm
+ET
+q
+1 w 28 106 m 168 106 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 95 Tm
+(\\255)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 95 Tm
+(\255)Tj
+/F0 10 Tf
+1 0 0 1 28 95 Tm
+ET
+q
+1 w 28 93 m 168 93 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 82 Tm
+(\\256)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 82 Tm
+(\256)Tj
+/F0 10 Tf
+1 0 0 1 28 82 Tm
+ET
+q
+1 w 28 80 m 168 80 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 69 Tm
+(\\257)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 69 Tm
+(\257)Tj
+/F0 10 Tf
+1 0 0 1 28 69 Tm
+ET
+q
+1 w 28 67 m 168 67 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 56 Tm
+(\\260)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 56 Tm
+(\260)Tj
+/F0 10 Tf
+1 0 0 1 28 56 Tm
+ET
+q
+1 w 28 54 m 168 54 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 43 Tm
+(\\261)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 43 Tm
+(\261)Tj
+/F0 10 Tf
+1 0 0 1 28 43 Tm
+ET
+q
+1 w 28 41 m 168 41 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 30 Tm
+(\\262)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 30 Tm
+(\262)Tj
+/F0 10 Tf
+1 0 0 1 28 30 Tm
+ET
+q
+1 w 28 28 m 168 28 l s 
+Q
+BT
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+/F0 8 Tf
+1 0 0 1 295 25 Tm
+(page 9)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+44 0 obj
+8508
+endobj
+41 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 42 0 R
+/Contents 43 0 R
+>>
+endobj
+42 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F4 11 0 R>>
+>>
+endobj
+47 0 obj
+<<
+/Length 48 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+()Tj
+/F1 14 Tf
+1 0 0 1 206 750 Tm
+(Special Characters)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 10)Tj
+1 0 0 1 28 750 Tm
+ET
+q
+1 w 28 743 m 584 743 l s 
+Q
+BT
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.9019607843137255 0.9019607843137255 0.9019607843137255 rg 28 737 m 168 737 l 168 721 l 28 721 l h f
+Q
+q
+1 w 28 737 m 168 737 l s 
+Q
+BT
+/F1 12 Tf
+1 0 0 1 33 725 Tm
+(Octal code)Tj
+/F0 10 Tf
+/F1 12 Tf
+1 0 0 1 106 725 Tm
+(Character)Tj
+/F0 10 Tf
+1 0 0 1 28 721 Tm
+ET
+q
+1 w 28 721 m 168 721 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 710 Tm
+(\\263)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 710 Tm
+(\263)Tj
+/F0 10 Tf
+1 0 0 1 28 710 Tm
+ET
+q
+1 w 28 708 m 168 708 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 697 Tm
+(\\264)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 697 Tm
+(\264)Tj
+/F0 10 Tf
+1 0 0 1 28 697 Tm
+ET
+q
+1 w 28 695 m 168 695 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 684 Tm
+(\\265)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 684 Tm
+(\265)Tj
+/F0 10 Tf
+1 0 0 1 28 684 Tm
+ET
+q
+1 w 28 682 m 168 682 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 671 Tm
+(\\266)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 671 Tm
+(\266)Tj
+/F0 10 Tf
+1 0 0 1 28 671 Tm
+ET
+q
+1 w 28 669 m 168 669 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 658 Tm
+(\\267)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 658 Tm
+(\267)Tj
+/F0 10 Tf
+1 0 0 1 28 658 Tm
+ET
+q
+1 w 28 656 m 168 656 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 645 Tm
+(\\270)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 645 Tm
+(\270)Tj
+/F0 10 Tf
+1 0 0 1 28 645 Tm
+ET
+q
+1 w 28 643 m 168 643 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 632 Tm
+(\\271)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 632 Tm
+(\271)Tj
+/F0 10 Tf
+1 0 0 1 28 632 Tm
+ET
+q
+1 w 28 630 m 168 630 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 619 Tm
+(\\272)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 619 Tm
+(\272)Tj
+/F0 10 Tf
+1 0 0 1 28 619 Tm
+ET
+q
+1 w 28 617 m 168 617 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 606 Tm
+(\\273)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 606 Tm
+(\273)Tj
+/F0 10 Tf
+1 0 0 1 28 606 Tm
+ET
+q
+1 w 28 604 m 168 604 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 593 Tm
+(\\274)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 593 Tm
+(\274)Tj
+/F0 10 Tf
+1 0 0 1 28 593 Tm
+ET
+q
+1 w 28 591 m 168 591 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 580 Tm
+(\\275)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 580 Tm
+(\275)Tj
+/F0 10 Tf
+1 0 0 1 28 580 Tm
+ET
+q
+1 w 28 578 m 168 578 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 567 Tm
+(\\276)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 567 Tm
+(\276)Tj
+/F0 10 Tf
+1 0 0 1 28 567 Tm
+ET
+q
+1 w 28 565 m 168 565 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 554 Tm
+(\\277)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 554 Tm
+(\277)Tj
+/F0 10 Tf
+1 0 0 1 28 554 Tm
+ET
+q
+1 w 28 552 m 168 552 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 541 Tm
+(\\300)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 541 Tm
+(\300)Tj
+/F0 10 Tf
+1 0 0 1 28 541 Tm
+ET
+q
+1 w 28 539 m 168 539 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 528 Tm
+(\\301)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 528 Tm
+(\301)Tj
+/F0 10 Tf
+1 0 0 1 28 528 Tm
+ET
+q
+1 w 28 526 m 168 526 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 515 Tm
+(\\302)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 515 Tm
+(\302)Tj
+/F0 10 Tf
+1 0 0 1 28 515 Tm
+ET
+q
+1 w 28 513 m 168 513 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 502 Tm
+(\\303)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 502 Tm
+(\303)Tj
+/F0 10 Tf
+1 0 0 1 28 502 Tm
+ET
+q
+1 w 28 500 m 168 500 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 489 Tm
+(\\304)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 489 Tm
+(\304)Tj
+/F0 10 Tf
+1 0 0 1 28 489 Tm
+ET
+q
+1 w 28 487 m 168 487 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 476 Tm
+(\\305)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 476 Tm
+(\305)Tj
+/F0 10 Tf
+1 0 0 1 28 476 Tm
+ET
+q
+1 w 28 474 m 168 474 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 463 Tm
+(\\306)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 463 Tm
+(\306)Tj
+/F0 10 Tf
+1 0 0 1 28 463 Tm
+ET
+q
+1 w 28 461 m 168 461 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 450 Tm
+(\\307)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 450 Tm
+(\307)Tj
+/F0 10 Tf
+1 0 0 1 28 450 Tm
+ET
+q
+1 w 28 448 m 168 448 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 437 Tm
+(\\310)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 437 Tm
+(\310)Tj
+/F0 10 Tf
+1 0 0 1 28 437 Tm
+ET
+q
+1 w 28 435 m 168 435 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 424 Tm
+(\\311)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 424 Tm
+(\311)Tj
+/F0 10 Tf
+1 0 0 1 28 424 Tm
+ET
+q
+1 w 28 422 m 168 422 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 411 Tm
+(\\312)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 411 Tm
+(\312)Tj
+/F0 10 Tf
+1 0 0 1 28 411 Tm
+ET
+q
+1 w 28 409 m 168 409 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 398 Tm
+(\\313)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 398 Tm
+(\313)Tj
+/F0 10 Tf
+1 0 0 1 28 398 Tm
+ET
+q
+1 w 28 396 m 168 396 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 385 Tm
+(\\314)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 385 Tm
+(\314)Tj
+/F0 10 Tf
+1 0 0 1 28 385 Tm
+ET
+q
+1 w 28 383 m 168 383 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 372 Tm
+(\\315)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 372 Tm
+(\315)Tj
+/F0 10 Tf
+1 0 0 1 28 372 Tm
+ET
+q
+1 w 28 370 m 168 370 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 359 Tm
+(\\316)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 359 Tm
+(\316)Tj
+/F0 10 Tf
+1 0 0 1 28 359 Tm
+ET
+q
+1 w 28 357 m 168 357 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 346 Tm
+(\\317)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 346 Tm
+(\317)Tj
+/F0 10 Tf
+1 0 0 1 28 346 Tm
+ET
+q
+1 w 28 344 m 168 344 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 333 Tm
+(\\320)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 333 Tm
+(\320)Tj
+/F0 10 Tf
+1 0 0 1 28 333 Tm
+ET
+q
+1 w 28 331 m 168 331 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 320 Tm
+(\\321)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 320 Tm
+(\321)Tj
+/F0 10 Tf
+1 0 0 1 28 320 Tm
+ET
+q
+1 w 28 318 m 168 318 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 307 Tm
+(\\322)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 307 Tm
+(\322)Tj
+/F0 10 Tf
+1 0 0 1 28 307 Tm
+ET
+q
+1 w 28 305 m 168 305 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 294 Tm
+(\\323)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 294 Tm
+(\323)Tj
+/F0 10 Tf
+1 0 0 1 28 294 Tm
+ET
+q
+1 w 28 292 m 168 292 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 281 Tm
+(\\324)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 281 Tm
+(\324)Tj
+/F0 10 Tf
+1 0 0 1 28 281 Tm
+ET
+q
+1 w 28 279 m 168 279 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 268 Tm
+(\\325)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 268 Tm
+(\325)Tj
+/F0 10 Tf
+1 0 0 1 28 268 Tm
+ET
+q
+1 w 28 266 m 168 266 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 255 Tm
+(\\326)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 255 Tm
+(\326)Tj
+/F0 10 Tf
+1 0 0 1 28 255 Tm
+ET
+q
+1 w 28 253 m 168 253 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 242 Tm
+(\\327)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 242 Tm
+(\327)Tj
+/F0 10 Tf
+1 0 0 1 28 242 Tm
+ET
+q
+1 w 28 240 m 168 240 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 229 Tm
+(\\330)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 229 Tm
+(\330)Tj
+/F0 10 Tf
+1 0 0 1 28 229 Tm
+ET
+q
+1 w 28 227 m 168 227 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 216 Tm
+(\\331)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 216 Tm
+(\331)Tj
+/F0 10 Tf
+1 0 0 1 28 216 Tm
+ET
+q
+1 w 28 214 m 168 214 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 203 Tm
+(\\332)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 203 Tm
+(\332)Tj
+/F0 10 Tf
+1 0 0 1 28 203 Tm
+ET
+q
+1 w 28 201 m 168 201 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 190 Tm
+(\\333)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 190 Tm
+(\333)Tj
+/F0 10 Tf
+1 0 0 1 28 190 Tm
+ET
+q
+1 w 28 188 m 168 188 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 177 Tm
+(\\334)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 177 Tm
+(\334)Tj
+/F0 10 Tf
+1 0 0 1 28 177 Tm
+ET
+q
+1 w 28 175 m 168 175 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 164 Tm
+(\\335)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 164 Tm
+(\335)Tj
+/F0 10 Tf
+1 0 0 1 28 164 Tm
+ET
+q
+1 w 28 162 m 168 162 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 151 Tm
+(\\336)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 151 Tm
+(\336)Tj
+/F0 10 Tf
+1 0 0 1 28 151 Tm
+ET
+q
+1 w 28 149 m 168 149 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 138 Tm
+(\\337)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 138 Tm
+(\337)Tj
+/F0 10 Tf
+1 0 0 1 28 138 Tm
+ET
+q
+1 w 28 136 m 168 136 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 125 Tm
+(\\340)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 125 Tm
+(\340)Tj
+/F0 10 Tf
+1 0 0 1 28 125 Tm
+ET
+q
+1 w 28 123 m 168 123 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 112 Tm
+(\\341)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 112 Tm
+(\341)Tj
+/F0 10 Tf
+1 0 0 1 28 112 Tm
+ET
+q
+1 w 28 110 m 168 110 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 99 Tm
+(\\342)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 99 Tm
+(\342)Tj
+/F0 10 Tf
+1 0 0 1 28 99 Tm
+ET
+q
+1 w 28 97 m 168 97 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 86 Tm
+(\\343)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 86 Tm
+(\343)Tj
+/F0 10 Tf
+1 0 0 1 28 86 Tm
+ET
+q
+1 w 28 84 m 168 84 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 73 Tm
+(\\344)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 73 Tm
+(\344)Tj
+/F0 10 Tf
+1 0 0 1 28 73 Tm
+ET
+q
+1 w 28 71 m 168 71 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 60 Tm
+(\\345)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 60 Tm
+(\345)Tj
+/F0 10 Tf
+1 0 0 1 28 60 Tm
+ET
+q
+1 w 28 58 m 168 58 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 47 Tm
+(\\346)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 47 Tm
+(\346)Tj
+/F0 10 Tf
+1 0 0 1 28 47 Tm
+ET
+q
+1 w 28 45 m 168 45 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 34 Tm
+(\\347)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 34 Tm
+(\347)Tj
+/F0 10 Tf
+1 0 0 1 28 34 Tm
+ET
+q
+1 w 28 32 m 168 32 l s 
+Q
+BT
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+/F0 8 Tf
+1 0 0 1 293 25 Tm
+(page 10)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+48 0 obj
+8528
+endobj
+45 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 46 0 R
+/Contents 47 0 R
+>>
+endobj
+46 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F4 11 0 R>>
+>>
+endobj
+51 0 obj
+<<
+/Length 52 0 R
+>>
+stream
+BT
+/F0 10 Tf
+1 0 0 1 28 754 Tm
+()Tj
+/F1 14 Tf
+1 0 0 1 206 750 Tm
+(Special Characters)Tj
+/F0 10 Tf
+1 0 0 1 490 754 Tm
+(page)Tj
+1 0 0 1 508 754 Tm
+( 11)Tj
+1 0 0 1 28 750 Tm
+ET
+q
+1 w 28 743 m 584 743 l s 
+Q
+BT
+/F0 10 Tf
+/F0 10 Tf
+ET
+q
+0.9019607843137255 0.9019607843137255 0.9019607843137255 rg 28 737 m 168 737 l 168 721 l 28 721 l h f
+Q
+q
+1 w 28 737 m 168 737 l s 
+Q
+BT
+/F1 12 Tf
+1 0 0 1 33 725 Tm
+(Octal code)Tj
+/F0 10 Tf
+/F1 12 Tf
+1 0 0 1 106 725 Tm
+(Character)Tj
+/F0 10 Tf
+1 0 0 1 28 721 Tm
+ET
+q
+1 w 28 721 m 168 721 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 710 Tm
+(\\350)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 710 Tm
+(\350)Tj
+/F0 10 Tf
+1 0 0 1 28 710 Tm
+ET
+q
+1 w 28 708 m 168 708 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 697 Tm
+(\\351)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 697 Tm
+(\351)Tj
+/F0 10 Tf
+1 0 0 1 28 697 Tm
+ET
+q
+1 w 28 695 m 168 695 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 684 Tm
+(\\352)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 684 Tm
+(\352)Tj
+/F0 10 Tf
+1 0 0 1 28 684 Tm
+ET
+q
+1 w 28 682 m 168 682 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 671 Tm
+(\\353)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 671 Tm
+(\353)Tj
+/F0 10 Tf
+1 0 0 1 28 671 Tm
+ET
+q
+1 w 28 669 m 168 669 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 658 Tm
+(\\354)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 658 Tm
+(\354)Tj
+/F0 10 Tf
+1 0 0 1 28 658 Tm
+ET
+q
+1 w 28 656 m 168 656 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 645 Tm
+(\\355)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 645 Tm
+(\355)Tj
+/F0 10 Tf
+1 0 0 1 28 645 Tm
+ET
+q
+1 w 28 643 m 168 643 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 632 Tm
+(\\356)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 632 Tm
+(\356)Tj
+/F0 10 Tf
+1 0 0 1 28 632 Tm
+ET
+q
+1 w 28 630 m 168 630 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 619 Tm
+(\\357)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 619 Tm
+(\357)Tj
+/F0 10 Tf
+1 0 0 1 28 619 Tm
+ET
+q
+1 w 28 617 m 168 617 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 606 Tm
+(\\360)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 606 Tm
+(\360)Tj
+/F0 10 Tf
+1 0 0 1 28 606 Tm
+ET
+q
+1 w 28 604 m 168 604 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 593 Tm
+(\\361)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 593 Tm
+(\361)Tj
+/F0 10 Tf
+1 0 0 1 28 593 Tm
+ET
+q
+1 w 28 591 m 168 591 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 580 Tm
+(\\362)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 580 Tm
+(\362)Tj
+/F0 10 Tf
+1 0 0 1 28 580 Tm
+ET
+q
+1 w 28 578 m 168 578 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 567 Tm
+(\\363)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 567 Tm
+(\363)Tj
+/F0 10 Tf
+1 0 0 1 28 567 Tm
+ET
+q
+1 w 28 565 m 168 565 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 554 Tm
+(\\364)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 554 Tm
+(\364)Tj
+/F0 10 Tf
+1 0 0 1 28 554 Tm
+ET
+q
+1 w 28 552 m 168 552 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 541 Tm
+(\\365)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 541 Tm
+(\365)Tj
+/F0 10 Tf
+1 0 0 1 28 541 Tm
+ET
+q
+1 w 28 539 m 168 539 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 528 Tm
+(\\366)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 528 Tm
+(\366)Tj
+/F0 10 Tf
+1 0 0 1 28 528 Tm
+ET
+q
+1 w 28 526 m 168 526 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 515 Tm
+(\\367)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 515 Tm
+(\367)Tj
+/F0 10 Tf
+1 0 0 1 28 515 Tm
+ET
+q
+1 w 28 513 m 168 513 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 502 Tm
+(\\370)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 502 Tm
+(\370)Tj
+/F0 10 Tf
+1 0 0 1 28 502 Tm
+ET
+q
+1 w 28 500 m 168 500 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 489 Tm
+(\\371)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 489 Tm
+(\371)Tj
+/F0 10 Tf
+1 0 0 1 28 489 Tm
+ET
+q
+1 w 28 487 m 168 487 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 476 Tm
+(\\372)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 476 Tm
+(\372)Tj
+/F0 10 Tf
+1 0 0 1 28 476 Tm
+ET
+q
+1 w 28 474 m 168 474 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 463 Tm
+(\\373)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 463 Tm
+(\373)Tj
+/F0 10 Tf
+1 0 0 1 28 463 Tm
+ET
+q
+1 w 28 461 m 168 461 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 450 Tm
+(\\374)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 450 Tm
+(\374)Tj
+/F0 10 Tf
+1 0 0 1 28 450 Tm
+ET
+q
+1 w 28 448 m 168 448 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 437 Tm
+(\\375)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 437 Tm
+(\375)Tj
+/F0 10 Tf
+1 0 0 1 28 437 Tm
+ET
+q
+1 w 28 435 m 168 435 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 424 Tm
+(\\376)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 424 Tm
+(\376)Tj
+/F0 10 Tf
+1 0 0 1 28 424 Tm
+ET
+q
+1 w 28 422 m 168 422 l s 
+Q
+BT
+/F4 10 Tf
+1 0 0 1 53 411 Tm
+(\\377)Tj
+/F0 10 Tf
+/F4 10 Tf
+1 0 0 1 124 411 Tm
+(\377)Tj
+/F0 10 Tf
+1 0 0 1 28 411 Tm
+ET
+q
+1 w 28 409 m 168 409 l s 
+Q
+BT
+/F0 10 Tf
+1 0 0 1 28 33 Tm
+/F0 8 Tf
+1 0 0 1 293 25 Tm
+(page 11)Tj
+/F0 10 Tf
+ET
+
+endstream
+endobj
+52 0 obj
+4208
+endobj
+49 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/Resources 50 0 R
+/Contents 51 0 R
+>>
+endobj
+50 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F0 7 0 R /F1 8 0 R /F4 11 0 R>>
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [
+3 0 R
+13 0 R
+17 0 R
+21 0 R
+25 0 R
+29 0 R
+33 0 R
+37 0 R
+41 0 R
+45 0 R
+49 0 R
+] /Count 11
+/MediaBox [0 0 612 792]
+>>
+endobj
+1 0 obj
+<<
+/Type /Encoding
+/BaseEncoding /PDFDocEncoding
+/Differences [
+128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron / /Euro /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot / /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ]
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F2
+/BaseFont /Times-Bold
+/Encoding 1 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F4
+/BaseFont /Helvetica
+/Encoding 1 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F3
+/BaseFont /Times-Italic
+/Encoding 1 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Times-Roman
+/Encoding 1 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Helvetica-Bold
+/Encoding 1 0 R
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F5
+/BaseFont /Courier
+/Encoding 1 0 R
+>>
+endobj
+53 0 obj
+<< /Creator (orinoco v1.0.13) /CreationDate (26 May 2005 20:48:28)>>
+endobj
+54 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+xref
+0 55
+0000000000 65535 f 
+0000098989 00000 n 
+0000098835 00000 n 
+0000002237 00000 n 
+0000002317 00000 n 
+0000000009 00000 n 
+0000002217 00000 n 
+0000100599 00000 n 
+0000100697 00000 n 
+0000100305 00000 n 
+0000100499 00000 n 
+0000100402 00000 n 
+0000100798 00000 n 
+0000014825 00000 n 
+0000014908 00000 n 
+0000002434 00000 n 
+0000014803 00000 n 
+0000027604 00000 n 
+0000027687 00000 n 
+0000015004 00000 n 
+0000027582 00000 n 
+0000037124 00000 n 
+0000037207 00000 n 
+0000027783 00000 n 
+0000037103 00000 n 
+0000045628 00000 n 
+0000045711 00000 n 
+0000037303 00000 n 
+0000045607 00000 n 
+0000055857 00000 n 
+0000055940 00000 n 
+0000045796 00000 n 
+0000055836 00000 n 
+0000068981 00000 n 
+0000069064 00000 n 
+0000056025 00000 n 
+0000068959 00000 n 
+0000076688 00000 n 
+0000076771 00000 n 
+0000069149 00000 n 
+0000076667 00000 n 
+0000085440 00000 n 
+0000085523 00000 n 
+0000076856 00000 n 
+0000085419 00000 n 
+0000094213 00000 n 
+0000094296 00000 n 
+0000085609 00000 n 
+0000094192 00000 n 
+0000098666 00000 n 
+0000098749 00000 n 
+0000094382 00000 n 
+0000098645 00000 n 
+0000100893 00000 n 
+0000100978 00000 n 
+trailer
+<<
+/Size 55
+/Root 54 0 R
+/Info 53 0 R
+>>
+startxref
+101028
+%%EOF

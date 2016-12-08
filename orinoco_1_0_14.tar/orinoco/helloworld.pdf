@@ -1,0 +1,90 @@
+%PDF-1.2
+4 0 obj
+<<
+/Length 5 0 R
+>>
+stream
+BT
+/F0 10 Tf
+/F0 10 Tf
+/F1 14 Tf
+1 0 0 1 28 750 Tm
+(Hello world)Tj
+/F0 10 Tf
+/F0 10 Tf
+ET
+
+endstream
+endobj
+5 0 obj
+90
+endobj
+2 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources 3 0 R
+/Contents 4 0 R
+>>
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text]
+/Font << /F1 7 0 R /F0 6 0 R>>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+2 0 R
+] /Count 1
+/MediaBox [0 0 612 792]
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F1
+/BaseFont /Times-Bold
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Name /F0
+/BaseFont /Times-Roman
+>>
+endobj
+8 0 obj
+<< /Creator (orinoco v1.0.5) /CreationDate (21 Nov 2002 10:29:32)>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000324 00000 n 
+0000000170 00000 n 
+0000000250 00000 n 
+0000000009 00000 n 
+0000000152 00000 n 
+0000000488 00000 n 
+0000000407 00000 n 
+0000000570 00000 n 
+0000000653 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+702
+%%EOF

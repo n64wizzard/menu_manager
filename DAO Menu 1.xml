@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Base>
+    <Stores>
+        <Store>Winco</Store>
+        <Store>Costco</Store>
+    </Stores>
+    <Categories>
+        <Category>Bakery</Category>
+        <Category>Canned Goods</Category>
+        <Category>Condiments</Category>
+        <Category>Dairy Products</Category>
+        <Category>Dry Goods</Category>
+        <Category>Fresh Produce</Category>
+        <Category>Frozen Products</Category>
+        <Category>Meats</Category>
+        <Category>Spices</Category>
+    </Categories>
+    <MealNames>
+        <MealName>Breakfast</MealName>
+        <MealName>Lunch</MealName>
+        <MealName>Afternoon Snack</MealName>
+        <MealName>Dinner</MealName>
+        <MealName>Dessert</MealName>
+    </MealNames>
+    <MeasureUnits>
+        <MeasureUnit>box</MeasureUnit>
+        <MeasureUnit>bag</MeasureUnit>
+        <MeasureUnit>cnt</MeasureUnit>
+        <MeasureUnit>head</MeasureUnit>
+        <MeasureUnit>lb</MeasureUnit>
+        <MeasureUnit>jar</MeasureUnit>
+        <MeasureUnit>tbs</MeasureUnit>
+        <MeasureUnit>tsp</MeasureUnit>
+        <MeasureUnit>gal</MeasureUnit>
+        <MeasureUnit>oz</MeasureUnit>
+        <MeasureUnit>slice</MeasureUnit>
+        <MeasureUnit>cup</MeasureUnit>
+    </MeasureUnits>
+    <Ingredients>
+        <Ingredient id="3901770">
+            <name>Bacon</name>
+            <measureUnit>oz</measureUnit>
+            <unitsPerPackage>2.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Meats</category>
+        </Ingredient>
+        <Ingredient id="24557267">
+            <name>Butter</name>
+            <measureUnit>cup</measureUnit>
+            <unitsPerPackage>4.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Dairy Products</category>
+        </Ingredient>
+        <Ingredient id="72709602">
+            <name>Cinnamon</name>
+            <measureUnit>tbs</measureUnit>
+            <unitsPerPackage>40.0</unitsPerPackage>
+            <store>Winco</store>
+            <category>Spices</category>
+        </Ingredient>
+        <Ingredient id="53935363">
+            <name>Egg</name>
+            <measureUnit>cnt</measureUnit>
+            <unitsPerPackage>48.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Dairy Products</category>
+        </Ingredient>
+        <Ingredient id="78701567">
+            <name>Maple Syrup</name>
+            <measureUnit>oz</measureUnit>
+            <unitsPerPackage>24.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Condiments</category>
+        </Ingredient>
+        <Ingredient id="32230014">
+            <name>Milk</name>
+            <measureUnit>cup</measureUnit>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Dairy Products</category>
+        </Ingredient>
+        <Ingredient id="33404288">
+            <name>Powdered Sugar</name>
+            <measureUnit>oz</measureUnit>
+            <unitsPerPackage>32.0</unitsPerPackage>
+            <store>Winco</store>
+            <category>Dry Goods</category>
+        </Ingredient>
+        <Ingredient id="81470252">
+            <name>Texas Toast</name>
+            <measureUnit>slice</measureUnit>
+            <unitsPerPackage>16.0</unitsPerPackage>
+            <store>Winco</store>
+            <category>Bakery</category>
+        </Ingredient>
+        <Ingredient id="70628048">
+            <name>Vanilla</name>
+            <measureUnit>tbs</measureUnit>
+            <unitsPerPackage>20.0</unitsPerPackage>
+            <store>Winco</store>
+            <category>Spices</category>
+        </Ingredient>
+        <Ingredient id="24262177">
+            <name>Vegetable Oil</name>
+            <measureUnit>oz</measureUnit>
+            <unitsPerPackage>48.0</unitsPerPackage>
+            <store>Costco</store>
+            <category>Dry Goods</category>
+        </Ingredient>
+    </Ingredients>
+    <Dishes>
+        <Dish id="51186174" name="Bacon">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="3.0" id="3901770"/>
+            </DishIngredients>
+            <Description><![CDATA[Description/Comments...]]></Description>
+            <PrepDirections><![CDATA[Preparation Instructions...]]></PrepDirections>
+        </Dish>
+        <Dish id="51062455" name="French Toast">
+            <DishIngredients>
+                <DishIngredient QuantityPerServing="3.0" id="81470252"/>
+                <DishIngredient QuantityPerServing="2.0" id="53935363"/>
+                <DishIngredient QuantityPerServing="0.4" id="72709602"/>
+                <DishIngredient QuantityPerServing="0.05" id="24557267"/>
+                <DishIngredient QuantityPerServing="0.2" id="32230014"/>
+                <DishIngredient QuantityPerServing="0.01" id="70628048"/>
+                <DishIngredient QuantityPerServing="2.0" id="78701567"/>
+                <DishIngredient QuantityPerServing="0.3" id="33404288"/>
+            </DishIngredients>
+            <Description><![CDATA[Description/Comments...]]></Description>
+            <PrepDirections><![CDATA[Whip up the eggs with a little milk, vanilla, and cinnamon.  Lightly grease the skillet or the griddle.  Dip each slice of bread in the egg mixture.  Fry until golden brown on each side.  Serve with butter, syrup, and powdered sugar.]]></PrepDirections>
+        </Dish>
+    </Dishes>
+    <Menu>
+        <MenuDay dayName="Day 1" numPeople="25">
+            <MenuMeal name="Breakfast">
+                <MealDish id="51062455"/>
+                <MealDish id="51186174"/>
+            </MenuMeal>
+        </MenuDay>
+        <MenuDay dayName="Unnamed Day" numPeople="0"/>
+    </Menu>
+</Base>

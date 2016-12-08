@@ -1,0 +1,62 @@
+/*********************************************************************
+*
+*      Copyright (C) 2002 Andrew Khan
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2.1 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the Free Software
+* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+***************************************************************************/
+
+package orinoco.write;
+
+import java.io.IOException;
+import java.io.Writer;
+
+import orinoco.Colour;
+import orinoco.layout.BaseFont;
+import orinoco.layout.DocumentLayout;
+
+/**
+ * Interface which the various file format writers must adhere to.  Writes
+ * out a particular action in the appropriate file format (postscript, pdf etc)
+ */
+public interface FormatWriter
+{
+  public void writeClose() throws IOException;
+  public void writeEndOfPage() throws IOException;
+  public void writeNewPage() throws IOException;
+  public void writeText(String s) throws IOException;
+  public void writeSetX(double xpos) throws IOException;
+  public void writeSetY(double ypos) throws IOException;
+  public void writeFont(BaseFont f) throws IOException;
+  public void writeAdjustY(int amount) throws IOException;
+  public void writeNewLine() throws IOException;
+  public void writeMoveTo(double x, double y) throws IOException;
+  public void writeDrawLine(double x1, double y1, double x2, double y2, int w)
+    throws IOException;
+  public void writeFillBox(double x1, double y1, double width, double height,
+                           Colour c) throws IOException;
+  public void postProcess() throws IOException;
+  public void init(DocumentLayout dl) throws IOException;
+
+  /**
+   * Sees is the character passed in is a special character in this particular
+   * output format
+   *
+   * @param c the character
+   * @return TRUE if the character is a special character, FALSE otherwise
+   */
+  public boolean isSpecial(char c);
+}
+
+

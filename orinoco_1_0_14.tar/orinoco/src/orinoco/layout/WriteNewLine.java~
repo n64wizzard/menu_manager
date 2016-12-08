@@ -1,0 +1,45 @@
+// ****************************************************************************
+//          Copyright (c) Chase Manhattan Corporation Bank  2002 
+//                          All Rights Reserved
+// ****************************************************************************
+// Who           Description 
+// ===           ==============================================================
+// 
+// ****************************************************************************
+
+package orinoco.layout;
+
+import java.io.IOException;
+import orinoco.Alignment;
+import orinoco.write.FormatWriter;
+
+/**
+ * Atomic command implementation
+ */
+class WriteNewLine implements Command
+{
+  /**
+   * the output writer
+   */
+  private FormatWriter writer;
+
+  /**
+   * Constructor
+   * 
+   * @param fw the output writer
+   */
+  public WriteNewLine(FormatWriter fw)
+  {
+    writer = fw;
+  }
+
+  /**
+   * Executes the command
+   * 
+   * @exception IOException 
+   */
+  public void execute() throws IOException
+  {
+    writer.writeNewLine();
+  }
+}

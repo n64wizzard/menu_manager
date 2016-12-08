@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : ingredients.xml
+    Created on : May 23, 2011, 7:25 PM
+    Author     : Glenn Ulansey
+    Description:
+        Purpose of the document follows.
+-->
+
+<Base>
+	<Ingredient>
+		<name>Milk</name>
+		<measureUnit>Cup</measureUnit>
+		<unitsPerPackage>32</unitsPerPackage>
+		<store>Costco</store>
+		<category>Dairy</category>
+	</Ingredient>
+	<Ingredient>
+		<name>Vanilla</name>
+		<measureUnit>Teaspoon</measureUnit>
+		<unitsPerPackage>16</unitsPerPackage>
+		<store>Winco</store>
+		<category>Spices</category>
+	</Ingredient>
+	<Ingredient>
+		<name>Texas Toast</name>
+		<measureUnit>Slice</measureUnit>
+		<unitsPerPackage>16</unitsPerPackage>
+		<store>Costco</store>
+		<category>Cereals</category>
+	</Ingredient>
+	<Ingredient>
+		<name>Cinnamon</name>
+		<measureUnit>Teaspoon</measureUnit>
+		<unitsPerPackage>32</unitsPerPackage>
+		<store>Winco</store>
+		<category>Spices</category>
+	</Ingredient>
+	<Ingredient>
+		<name>Orange Juice</name>
+		<measureUnit>Ounce</measureUnit>
+		<unitsPerPackage>64</unitsPerPackage>
+		<store>Costco</store>
+		<category>Drinks</category>
+	</Ingredient>
+</Base>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : ingredientCategories.xml
+    Created on : May 23, 2011, 7:25 PM
+    Author     : Glenn Ulansey
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+	<Category>Produce</Category>
+	<Category>Cereals</Category>
+	<Category>Chips and Crackers</Category>
+	<Category>Dairy</Category>
+	<Category>Meat</Category>
+	<Category>Deserts</Category>
+	<Category>Drinks</Category>
+	<Category>Non-Food</Category>
+	<Category>Spices</Category>
+</root>

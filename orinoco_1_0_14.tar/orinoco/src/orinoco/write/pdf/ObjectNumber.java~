@@ -1,0 +1,102 @@
+/*********************************************************************
+*
+*      Copyright (C) 2002 Andrew Khan
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2.1 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the Free Software
+* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+***************************************************************************/
+
+package orinoco.write.pdf;
+
+import java.io.BufferedWriter;
+import java.io.IOException;
+
+/**
+ * The PDF object number and position in the output file
+ */
+class ObjectNumber
+{
+  /**
+   * the object number
+   */
+  private int number;
+  /**
+   * The offset into the stream
+   */
+  private int offset;
+
+  /**
+   * A handle to the main PDF writer
+   */
+  private PDFWriter writer;
+
+  /**
+   * Constructor - takes in only the number.  The file offset is
+   * initialized when the object is written out
+   * 
+   * @param w the pdf writer
+   * @param num the number index
+   */
+  public ObjectNumber(int num, PDFWriter w)
+  {
+    number = num;
+    writer = w;
+  }
+
+  /**
+   * Writes out this object
+   * 
+   * @exception IOException 
+   * @param bw the writer
+   */
+  void writeObj(BufferedWriter bw) throws IOException
+  {
+    offset = writer.getOffset();
+    bw.write(String.valueOf(number));
+    bw.write(" 0 obj");
+    bw.newLine();
+  }
+
+  /**
+   * Writes out this object as a reference
+   * 
+   * @exception IOException 
+   * @param bw the writer
+   */
+  void writeRef(BufferedWriter bw) throws IOException
+  {
+    bw.write(String.valueOf(number));
+    bw.write(" 0 R");
+  }
+
+  /**
+   * Gets the offset
+   * 
+   * @return the offset in the file
+   */
+  int getOffset()
+  {
+    return offset;
+  }
+
+  /**
+   * Gets the number
+   * 
+   * @return the object number
+   */
+  int getNumber()
+  {
+    return number;
+  }
+}

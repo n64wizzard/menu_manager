@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : ingredients.xml
+    Created on : May 23, 2011, 7:25 PM
+    Author     : Glenn Ulansey
+    Description:
+        Purpose of the document follows.
+-->
+
+<Base>
+	<Stores>
+		<Store>SafeWay</Store>
+		<Store>Costco</Store>
+		<Store>Winco</Store>
+		<Store>Butcher</Store>
+	</Stores>
+	<Categories>
+		<Category>Produce</Category>
+		<Category>Cereals</Category>
+		<Category>Chips and Crackers</Category>
+		<Category>Dairy</Category>
+		<Category>Meat</Category>
+		<Category>Deserts</Category>
+		<Category>Drinks</Category>
+		<Category>Non-Food</Category>
+		<Category>Spices</Category>
+	</Categories>
+	<MeasureUnits>
+		<MeasureUnit>Cup</MeasureUnit>
+		<MeasureUnit>Slice</MeasureUnit>
+		<MeasureUnit>Ounce</MeasureUnit>
+		<MeasureUnit>Box</MeasureUnit>
+		<MeasureUnit></MeasureUnit>
+		<MeasureUnit>Tablespoon</MeasureUnit>
+		<MeasureUnit>Teaspoon</MeasureUnit>
+		<MeasureUnit>Pound</MeasureUnit>
+	</MeasureUnits>
+	<Ingredients>
+		<Ingredient id="1">
+			<name>Milk</name>
+			<measureUnit>Cup</measureUnit>
+			<unitsPerPackage>32</unitsPerPackage>
+			<store>Costco</store>
+			<category>Dairy</category>
+		</Ingredient>
+		<Ingredient id="2">
+			<name>Vanilla</name>
+			<measureUnit>Teaspoon</measureUnit>
+			<unitsPerPackage>16</unitsPerPackage>
+			<store>Winco</store>
+			<category>Spices</category>
+		</Ingredient>
+		<Ingredient id="3">
+			<name>Texas Toast</name>
+			<measureUnit>Slice</measureUnit>
+			<unitsPerPackage>16</unitsPerPackage>
+			<store>Costco</store>
+			<category>Cereals</category>
+		</Ingredient>
+		<Ingredient id="4">
+			<name>Cinnamon</name>
+			<measureUnit>Teaspoon</measureUnit>
+			<unitsPerPackage>32</unitsPerPackage>
+			<store>Winco</store>
+			<category>Spices</category>
+		</Ingredient>
+		<Ingredient id="5">
+			<name>Orange Juice</name>
+			<measureUnit>Ounce</measureUnit>
+			<unitsPerPackage>64</unitsPerPackage>
+			<store>Costco</store>
+			<category>Drinks</category>
+		</Ingredient>
+	</Ingredients>
+	<Dishes>
+		<Dish></Dish>
+	</Dishes>
+	<Menu>
+		<MenuMeal>
+			<DishMenu>
+			</DishMenu>
+		</MenuMeal>
+	</Menu>
+</Base>

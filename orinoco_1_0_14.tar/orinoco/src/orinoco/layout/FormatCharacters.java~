@@ -1,0 +1,35 @@
+// ****************************************************************************
+//          Copyright (c) Chase Manhattan Corporation Bank  2002 
+//                          All Rights Reserved
+// ****************************************************************************
+// Who           Description 
+// ===           ==============================================================
+// 
+// ****************************************************************************
+
+package orinoco.layout;
+
+/**
+ * Contains the logic to determine whether any characters in a string are
+ * special characters in the output format
+ */
+interface FormatCharacters
+{
+  /**
+   * Sees if the character passed in is a special character in this particular
+   * output format
+   *
+   * @param c the character
+   * @return TRUE if the character is a special character, FALSE otherwise
+   */
+  boolean isSpecial(char c);
+
+  /**
+   * Gets the escape sequence necessary to render the special character in
+   * the output file format
+   *
+   * @param c the character
+   * @return the escape sequence
+   */
+  String getEscapeSequence(char c);
+}

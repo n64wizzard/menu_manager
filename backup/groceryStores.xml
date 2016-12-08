@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : groceryStores.xml
+    Created on : May 23, 2011, 7:25 PM
+    Author     : Glenn Ulansey
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+	<Store>SafeWay</Store>
+	<Store>Costco</Store>
+	<Store>Winco</Store>
+	<Store>Butcher</Store>
+</root>

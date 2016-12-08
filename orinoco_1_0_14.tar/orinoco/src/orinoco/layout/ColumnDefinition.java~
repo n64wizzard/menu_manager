@@ -1,0 +1,116 @@
+// ****************************************************************************
+//          Copyright (c) Chase Manhattan Corporation Bank  2002 
+//                          All Rights Reserved
+// ****************************************************************************
+// Who           Description 
+// ===           ==============================================================
+// 
+// ****************************************************************************
+
+package orinoco.layout;
+
+import orinoco.Font;
+import orinoco.Alignment;
+
+/**
+ * The column definition for a table
+ */
+public class ColumnDefinition
+{
+  /**
+   * The width in points
+   */
+  private double width;
+
+  /**
+   * The alignment for entries within this table
+   */
+  private Alignment alignment;
+
+  /**
+   * The font for all items in this column
+   */
+  private BaseFont font;
+
+  /**
+   * Constructor
+   * 
+   * @param w the width in cms
+   */
+  protected ColumnDefinition(double w)
+  {
+    width = w * Constants.POINTS_PER_CM;
+    alignment = Alignment.LEFT;
+    font = Font.DEFAULT;
+  }
+
+  /**
+   * Constructor
+   * 
+   * @param w the width
+   * @param a the alignment of text
+   */
+  protected ColumnDefinition(double w, Alignment a)
+  {
+    width = w * Constants.POINTS_PER_CM;
+    alignment = a;
+    font = Font.DEFAULT;
+  }
+
+  /**
+   * Constructor
+   *
+   * @param w the width of the column
+   * @param f the font
+   */
+  public ColumnDefinition(double w, BaseFont f)
+  {
+    width = w * Constants.POINTS_PER_CM;
+    alignment = Alignment.LEFT;
+    font = f;
+  }
+
+  /**
+   * Constructor
+   * 
+   * @param w the width in cms
+   * @param a the alignment
+   * @param f the font
+   */
+  protected ColumnDefinition(double w, Alignment a, BaseFont f)
+  {
+    width = w * Constants.POINTS_PER_CM;
+    alignment = a;
+    font = f;
+  }
+
+  /**
+   * Gets the width of this column
+   * 
+   * @return the column width in points
+   */
+  final double getWidth()
+  {
+    return width;
+  }
+
+  /**
+   * Gets the default font for this column
+   * 
+   * @return the font
+   */
+  final BaseFont getFont()
+  {
+    return font;
+  }
+
+  /**
+   * Gets the alignment of this column
+   * 
+   * @return the alignment
+   */
+  final Alignment getAlignment()
+  {
+    return alignment;
+  }
+}

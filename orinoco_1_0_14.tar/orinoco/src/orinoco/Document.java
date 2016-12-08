@@ -1,0 +1,199 @@
+/*********************************************************************
+*
+*      Copyright (C) 2002 Andrew Khan
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2.1 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the Free Software
+* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+***************************************************************************/
+
+package orinoco;
+
+import java.io.OutputStream;
+import java.io.File;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.FileReader;
+import java.io.IOException;
+
+import orinoco.layout.DocumentLayout;
+
+/**
+ * The main API interface for the laying out and formatting of data
+ *
+ * Note that this is object requires two phase construction.  The first
+ * phase instantiates the document, and then the client sets the headers
+ * and footers and performance other configuration calls.  Then, when
+ * the document has been configured the client calls the open() method and 
+ * starts writing out data, setting fonts and manipulating the actual
+ * contents.  
+ *
+ * TRYING TO WRITE OUT DATA BEFORE THE open() METHOD HAS
+ * BEEN CALLED WILL RESULT IN A JAVA RUNTIME EXCEPTION
+ */
+public class Document extends DocumentLayout 
+  implements TextWriter, LayoutWriter
+{
+  /**
+   * The current version number of the application
+   */
+  private final static String version="1.0.14";
+
+  /**
+   * Constructor
+   * 
+   * @exception IOException 
+   * @param of the output format
+   * @param p the paper size
+   */
+  public Document(Paper p, OutputFormatWriter of) throws IOException
+  {
+    super(p, of);
+  }
+
+  /**
+   * Throws a new page.  Automatically writes out any headers and footers
+   * 
+   * @exception IOException 
+   */
+  public void newPage() throws IOException
+  {
+    super.newPage();
+  }
+
+  /**
+   * Indicates that the document has been set up (with headers, footers etc)
+   * and that we are ready to begin.  Writes out the necessary initialization
+   * data to the output file.  
+   *
+   * NOTE:  Trying to write write out data, set fonts etc. before this method
+   * has been called will throw a java runtime exception
+   * 
+   * @exception IOException 
+   */
+  public void open() throws IOException
+  {
+    super.init();
+  }
+
+  /**
+   * Indicates that the document has finished generating.  Writes any
+   * end of file trailer information to the output file
+   * 
+   * @exception IOException 
+   */
+  public void close() throws IOException
+  {
+    super.close();
+  }
+
+  /**
+   * Creates/gets the writer object enabling clients to specify the header
+   * for the beginning of each page.
+   * In order to create a header, this method must be called before the 
+   * open() method.  
+   * If the header is modified during the write process,
+   * the new header will take effect after the next page break
+   * 
+   * @exception IOException 
+   * @return a writer which writes to the page header
+   */
+  public LayoutWriter getHeader() throws IOException
+  {
+    return super.getHeader();
+  }
+
+  /**
+   * Creates/gets the writer object enabling clients to specify the footer
+   * to be written at the end of each page.
+   * In order to create a footer, this method must be called and the footer
+   * written before the open() method is called on the document object		
+   * If the footer is modified during the write process,
+   * the new footer will take effect after the next page break
+   * 
+   * @exception IOException 
+   * @return a writer to the footer object
+   */
+  public LayoutWriter getFooter() throws IOException
+  {
+    return super.getFooter();
+  }
+
+  /**
+   * Creates a new table with the specified column definitions.
+   * Any tables that are currently being written are closed first
+   * 
+   * @param cols the column definitions
+   * @return the newly created table
+   */
+  public Table createTable(Column[] cols)
+  {
+    return super.createTable(cols);
+  }
+
+  /**
+   * Creates a new table with the specified column definitions.
+   * Any tables that are currently being written are closed first
+   * 
+   * @param hdrs the column headings 
+   * @param cols the column definitions
+   * @return the table
+   */
+  public Table createTable(Column[] cols, Heading[] hdrs)
+  {
+    return super.createTable(cols, hdrs);
+  }
+
+  /**
+   * Gets the space left on the current page (in cm) once the header and
+   * footer heights have been taken into account.  
+   * Client applications may need this information in order to
+   * determine that they need to throw a new page before subsequent text
+   * is written
+   * 
+   * @return the available space left on the current page
+   */
+  public double getRemainingSpaceOnPage()
+  {
+    return super.getRemainingSpaceOnPage();
+  }
+
+  /**
+   * Accessor to get the current version of the orinoco software
+   * 
+   * @return the version string
+   */
+  public final static String getVersion()
+  {
+    return version;
+  }
+  
+  /**
+   * Accessor to get the current page number
+   *
+   * @return the current page number
+   */
+  public int getPageNumber()
+  {
+    return super.getPageNumber();
+  }
+}
+
+
+
+
+
+
+
+
+

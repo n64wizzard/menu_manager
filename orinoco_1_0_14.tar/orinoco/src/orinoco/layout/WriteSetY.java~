@@ -1,0 +1,51 @@
+// ****************************************************************************
+//          Copyright (c) Chase Manhattan Corporation Bank  2002 
+//                          All Rights Reserved
+// ****************************************************************************
+// Who           Description 
+// ===           ==============================================================
+// 
+// ****************************************************************************
+
+package orinoco.layout;
+
+import java.io.IOException;
+import orinoco.Alignment;
+import orinoco.write.FormatWriter;
+
+/**
+ * Atomic command implementation
+ */
+class WriteSetY implements Command
+{
+  /**
+   * the output writer
+   */
+  private FormatWriter writer;
+  /**
+   * the new y position
+   */
+  private double y;
+
+  /**
+   * Constructor
+   * 
+   * @param y the new y position
+   * @param fw the output writer
+   */
+  public WriteSetY(FormatWriter fw, double y)
+  {
+    writer = fw;
+    this.y = y;
+  }
+
+  /**
+   * Executes the command
+   * 
+   * @exception IOException 
+   */
+  public void execute() throws IOException
+  {
+    writer.writeSetY(y);
+  }
+}

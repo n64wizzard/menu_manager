@@ -1,0 +1,135 @@
+/*********************************************************************
+*
+*      Copyright (C) 2002 Andrew Khan
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2.1 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the Free Software
+* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+***************************************************************************/
+package orinoco.write.pdf;
+
+import java.util.ArrayList;
+import java.io.OutputStreamWriter;
+import java.io.IOException;
+
+import orinoco.layout.BaseFont;
+
+/**
+ * A font used in the PDF document
+ */
+class Font extends PDFObject
+{
+  /**
+   * The name of the font face
+   */
+  private String faceName;
+
+  /**
+   * The name of this font
+   */
+  private String name;
+
+  /**
+   * The font encoding
+   */
+  private FontEncoding encoding;
+  
+  /**
+   * Constructor
+   * 
+   * @param nm the font name
+   * @param num the object number
+   * @param fn the face name
+   */
+  Font(ObjectNumber num, String fn, String nm, FontEncoding fe)
+  {
+    super(num);
+    faceName = fn;
+    name = nm;
+    encoding = fe;
+  }
+
+  /**
+   * Standard hash code method.  Needed for storing in the pages resources
+   * 
+   * @return the hash code
+   */
+  public int hashCode()
+  {
+    return name.hashCode();
+  }
+
+  /**
+   * Standard equals method
+   * 
+   * @param o the object to compare
+   * @return TRUE if the objects are equal, FALSE otherwise
+   */
+  public boolean equals(Object o)
+  {
+    if (o == this)
+    {
+      return true;
+    }
+
+    if (!(o instanceof Font))
+    {
+      return false;
+    }
+
+    Font f = (Font) o;
+    
+    return name.equals(f.getName());
+  }
+
+  /**
+   * Gets the name of this font
+   * 
+   * @return the font name
+   */
+  String getName()
+  {
+    return name;
+  }
+ 
+
+  /**
+   * Writes out this font object
+   * 
+   * @exception IOException 
+   * @param out the output stream
+   */
+  void write(OutputStreamWriter out) throws IOException
+  {
+    getNumber().writeObj(out);
+    out.write("<<");
+    out.write(PDFWriter.newLineChar);
+    out.write("/Type /Font");
+    out.write(PDFWriter.newLineChar);
+    out.write("/Subtype /Type1");
+    out.write(PDFWriter.newLineChar);
+    out.write("/Name /");
+    out.write(name);
+    out.write(PDFWriter.newLineChar);
+    out.write("/BaseFont /");
+    out.write(faceName);
+    out.write(PDFWriter.newLineChar);
+    out.write("/Encoding ");
+    encoding.getNumber().writeRef(out);
+    out.write(PDFWriter.newLineChar);
+    out.write(">>");
+    out.write(PDFWriter.newLineChar);
+    out.write("endobj");
+    out.write(PDFWriter.newLineChar);
+  }
+}

@@ -1,0 +1,130 @@
+/*********************************************************************
+*
+*      Copyright (C) 2002 Andrew Khan
+*
+* This library is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public
+* License as published by the Free Software Foundation; either
+* version 2.1 of the License, or (at your option) any later version.
+*
+* This library is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+* Lesser General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public
+* License along with this library; if not, write to the Free Software
+* Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+***************************************************************************/
+
+package orinoco.layout;
+
+import java.io.IOException;
+
+import orinoco.TextMacro;
+import orinoco.Alignment;
+import orinoco.Colour;
+
+/**
+ * This interface specifies the set of atomic write functions.  The layout
+ * managers will perform any layout calculations (indents, newlines etc) and
+ * then invoke the atomic functions in order to render the instructions
+ * in the appropriate output format (postscript/PDF)
+ */
+interface AtomicWriteFunctions
+{
+  /**
+   * Sets the active font in the document
+   * 
+   * @exception IOException 
+   * @param font the font
+   */
+  void writeSetFont(BaseFont font) throws IOException;
+
+  /**
+   * Adjusts the y position by the number of points specified
+   * 
+   * @exception IOException 
+   * @param amount the amount to adjust by
+   */
+  void writeAdjustY(int amount) throws IOException;
+
+  /**
+   * Sets the absolute x position on the current line
+   * 
+   * @exception IOException 
+   * @param x the x position
+   */
+  void writeSetX(double x) throws IOException;
+
+  /**
+   * Sets the y position on the page
+   * 
+   * @exception IOException 
+   * @param y the y position
+   */
+  void writeSetY(double y) throws IOException;
+
+  /**
+   * Writes out an instruction to begin a new line
+   * 
+   * @exception IOException 
+   */
+  void writeNewLine() throws IOException;
+
+  /**
+   * Writes out the specified text at the current point
+   * 
+   * @exception IOException 
+   * @param s the text
+   */
+  void writeText(String s) throws IOException;
+
+  /**
+   * Writes out the specified text macro
+   * 
+   * @exception IOException 
+   * @param a the alignment
+   * @param tm the macro
+   */
+  void writeTextMacro(TextMacro tm, Alignment a) throws IOException;
+
+  /**
+   * Move to the specified position on the page
+   * 
+   * @exception IOException 
+   * @param y the y position
+   * @param x the x position
+   */
+  void writeMoveTo(double x, double y) throws IOException;
+
+  /**
+   * Draws a line on the page between the specified positions
+   * 
+   * @exception IOException 
+   * @param x1 
+   * @param ps the size of the line to draw
+   * @param y2 
+   * @param x2 
+   * @param y1 
+   */
+  void writeDrawLine(double x1, double y1, 
+                     double x2, double y2, int ps) throws IOException;
+
+  /**
+   * Draws a box filled with the specified colour on the page
+   * 
+   * @param c the colour with which to fill the box
+   * @param x1 the x position of the box
+   * @param height the height of the box
+   * @param width the width of the box
+   * @param y1 the y position of the box
+   * @exception IOException 
+   */
+  void writeFillBox(double x1, double y1, double width, double height,
+                    Colour c) throws IOException;
+}
+
+
+
+
